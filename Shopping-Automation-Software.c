@@ -1,9 +1,4 @@
 /* 
-Bedirhan BÜYÜKÖZ 
-
-
-
-
 ***************Beykoz  Üniversitesi  Kantin  Yazılımı********************
 
 
