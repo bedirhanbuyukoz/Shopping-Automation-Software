@@ -1,5 +1,5 @@
 /* 
-Bedirhan BÜYÜKÖZ & Mehmet Volkan VURAL
+Bedirhan BÜYÜKÖZ 
 
 
 
