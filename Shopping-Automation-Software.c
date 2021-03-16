@@ -1,66 +1,65 @@
 /* 
-Bedirhan BÜYÜKÖZ & Mehmet Volkan VURAL
-   1904040009         1904040010
-	  Yazılım Mühendisliği
+Bedirhan BÃœYÃœKÃ–Z & Mehmet Volkan VURAL
 
 
 
-***************Beykoz  Üniversitesi  Kantin  Yazılımı********************
+
+***************Beykoz  Ãœniversitesi  Kantin  YazÄ±lÄ±mÄ±********************
 
 
-Kantin Menüsü Aşağıdadır.
+Kantin MenÃ¼sÃ¼ AÅŸaÄŸÄ±dadÄ±r.
 
-GÖZLEME ÇEŞİTLERİ------1-------------------------------------------------------
+GÃ–ZLEME Ã‡EÅÄ°TLERÄ°------1-------------------------------------------------------
 
-peynirli gözleme                    9.00 tl 
-peynirli-sucuklu gözleme           10.00 tl 
-patatesli gözleme                   9.00 tl 
-patatesli peynirli gözleme         10.00 tl 
-Otlu gözleme                        8.00 tl 
-Otlu-Peynirli gözleme              10.00 tl
+peynirli gÃ¶zleme                    9.00 tl 
+peynirli-sucuklu gÃ¶zleme           10.00 tl 
+patatesli gÃ¶zleme                   9.00 tl 
+patatesli peynirli gÃ¶zleme         10.00 tl 
+Otlu gÃ¶zleme                        8.00 tl 
+Otlu-Peynirli gÃ¶zleme              10.00 tl
 
-SOĞUK İÇECEKLER--------2-------------------------------------------------------
+SOÄUK Ä°Ã‡ECEKLER--------2-------------------------------------------------------
 
 Ayran 200ml                         2.50 tl 
-Meşrubatlar(kutu) 330 ml            3.50 tl 
+MeÅŸrubatlar(kutu) 330 ml            3.50 tl 
 Meyveli soda 200 ml                 2.50 tl 
 sade soda 200ml                     2.00 tl
 su 500ml                            1.25 tl
 limonata 330ml                      2.50 tl 
 meysu meyve suyu                    2.50 tl 
 gazoz 200ml                         2.50 tl 
-Kido süt 200ml                      2.50 tl
+Kido sÃ¼t 200ml                      2.50 tl
 
-SICAK İÇECEKLER--------3---------------------------------------------------------
+SICAK Ä°Ã‡ECEKLER--------3---------------------------------------------------------
 
-çay                                1.50 tl
-büyük çay                          3.00 tl
-bitki çayları                      2.50 tl
+Ã§ay                                1.50 tl
+bÃ¼yÃ¼k Ã§ay                          3.00 tl
+bitki Ã§aylarÄ±                      2.50 tl
 americano                          4.50 tl
 cappucino                          5.00 tl
 Latte                              5.00 tl 
 Espresso                           4.00 tl
-Aromalı kahve                      6.00 tl
-Türk kahvesi                       4.00 tl
-Sıcak çikolata                     4.50 tl
+AromalÄ± kahve                      6.00 tl
+TÃ¼rk kahvesi                       4.00 tl
+SÄ±cak Ã§ikolata                     4.50 tl
 
 
 SALATALAR--------------4----------------------------------------------------------
 
-Yeşil salatalar                    8.00 tl
+YeÅŸil salatalar                    8.00 tl
 Peynirli salatalar                10.00 tl
 
-MENÜLER----------------5----------------------------------------------------------
+MENÃœLER----------------5----------------------------------------------------------
 
-Hamburger+patates+içecek          15.00 tl
-Cheeseburger+patates+içecek       15.00 tl
-Patso+içecek                      12.00 tl
-Peynirli Gözleme+içecek           12.00 tl
-Peynirli sucuklu Gözleme+içecek   12.00 tl
-Patates gözleme+içececek          12.00 tl
-Otlu peynirli gözleme + içecek    12.00 tl
+Hamburger+patates+iÃ§ecek          15.00 tl
+Cheeseburger+patates+iÃ§ecek       15.00 tl
+Patso+iÃ§ecek                      12.00 tl
+Peynirli GÃ¶zleme+iÃ§ecek           12.00 tl
+Peynirli sucuklu GÃ¶zleme+iÃ§ecek   12.00 tl
+Patates gÃ¶zleme+iÃ§ececek          12.00 tl
+Otlu peynirli gÃ¶zleme + iÃ§ecek    12.00 tl
 
-ŞEKERLEMELER----------6----------------------------------------------------------
+ÅEKERLEMELER----------6----------------------------------------------------------
 
 Polo                              2.50 tl
 Mentos                            2.50 tl
@@ -68,35 +67,35 @@ Mentos                            2.50 tl
 KAHVALTILAR-----------7---------------------------------------------------------- 
 
 SALATALIK 60 GR                   1.50 tl
-Haşlanmış Yumurta Adet            1.50 tl
+HaÅŸlanmÄ±ÅŸ Yumurta Adet            1.50 tl
 Salam 30gr                        2.00 tl
-Kaşar 30gr                        2.00 tl
+KaÅŸar 30gr                        2.00 tl
 bal 10 gr                         2.00 tl
-Tereyağı 10gr                     2.00 tl
+TereyaÄŸÄ± 10gr                     2.00 tl
 Beyaz peynir 30 gr                2.00 tl
 
-HAMUR İŞİ-------------8----------------------------------------------------------
+HAMUR Ä°ÅÄ°-------------8----------------------------------------------------------
 
-Poğaça Çeşitleri                  2.00 tl
-Açma                              2.00 tl
+PoÄŸaÃ§a Ã‡eÅŸitleri                  2.00 tl
+AÃ§ma                              2.00 tl
 Simit                             2.00 tl
 
 OMLETLER--------------9----------------------------------------------------------
 
 Beyaz peynirli omlet             7.00 tl
-Kaşarlı omlet                    8.00 tl
-Karışık omlet                    9.00 tl
+KaÅŸarlÄ± omlet                    8.00 tl
+KarÄ±ÅŸÄ±k omlet                    9.00 tl
 Menemen                         10.00 tl
 
-TOST ÇEŞİTLERİ------10----------------------------------------------------------- 
+TOST Ã‡EÅÄ°TLERÄ°------10----------------------------------------------------------- 
 
-Kaşarlı Tost                     6.00 tl
-Çift Kaşarlı tost                7.00 tl
-Karışık tost                     7.00 tl
-Ayvalık tost                     7.00 tl
+KaÅŸarlÄ± Tost                     6.00 tl
+Ã‡ift KaÅŸarlÄ± tost                7.00 tl
+KarÄ±ÅŸÄ±k tost                     7.00 tl
+AyvalÄ±k tost                     7.00 tl
 Pizza tost                       7.00 tl
 
-BURGER MENÜ--------11------------------------------------------------------------
+BURGER MENÃœ--------11------------------------------------------------------------
 
 Hamburger+patates               12.00 tl
 Cheeseburger+patates            13.00 tl
@@ -108,43 +107,43 @@ Elma adet                       2.00 tl
 armut adet                      2.00 tl
 portakal adet                   2.00 tl
 
-BİSKÜVİ/GOFRET---13--------------------------------------------------------------
+BÄ°SKÃœVÄ°/GOFRET---13--------------------------------------------------------------
 
 Albeni                          2.25 tl
-albeni atıştırmaklık            2.50 tl
-benimo lokmalık                 2.50 tl
+albeni atÄ±ÅŸtÄ±rmaklÄ±k            2.50 tl
+benimo lokmalÄ±k                 2.50 tl
 biskrem kakaolu                 2.00 tl
 Browni Intense                  2.50 tl
-Burçak                          2.50 tl
+BurÃ§ak                          2.50 tl
 Canga                           2.50 tl
-Canpare Çikolata                2.50 tl
+Canpare Ã‡ikolata                2.50 tl
 Tutku 110 gr                    2.50 tl
-Caramio Karamelli Çikolatalı    2.50 tl
-Cin lokmalık                    2.00 tl
+Caramio Karamelli Ã‡ikolatalÄ±    2.50 tl
+Cin lokmalÄ±k                    2.00 tl
 Cocostar                        2.00 tl
-Crax Çubuk Kraker               2.00 tl
-Çizi Peynirli                   2.50 tl
-Çizi sade                       2.50 tl
-Çokonat gofret                  2.50 tl
-Dido Sütlü Çikolatalı Gofret    2.50 tl
-Eti Burçak Sütlü Çikolatalı     2.50 tl
-Eti çay keyfi ÇİKOLATALI        2.50 tl
+Crax Ã‡ubuk Kraker               2.00 tl
+Ã‡izi Peynirli                   2.50 tl
+Ã‡izi sade                       2.50 tl
+Ã‡okonat gofret                  2.50 tl
+Dido SÃ¼tlÃ¼ Ã‡ikolatalÄ± Gofret    2.50 tl
+Eti BurÃ§ak SÃ¼tlÃ¼ Ã‡ikolatalÄ±     2.50 tl
+Eti Ã§ay keyfi Ã‡Ä°KOLATALI        2.50 tl
 Eti form                        1.50 tl
-Saklıköy                        2.50 tl
+SaklÄ±kÃ¶y                        2.50 tl
 Eti karam                       2.50 tl
 Eti popkek                      1.75 tl
-Ülker Çikolatalı gofret 33gr    2.50 tl
-Halley atıştırmalık             2.50 tl
-Hanımeller                      2.50 tl
-İkram Çikolata                  2.50 tl
+Ãœlker Ã‡ikolatalÄ± gofret 33gr    2.50 tl
+Halley atÄ±ÅŸtÄ±rmalÄ±k             2.50 tl
+HanÄ±meller                      2.50 tl
+Ä°kram Ã‡ikolata                  2.50 tl
 Laviva Bar                      2.50 tl
-Probis Atıştırmalık             2.50 tl
-Kuruyemiş Karışık               3.50 tl
+Probis AtÄ±ÅŸtÄ±rmalÄ±k             2.50 tl
+KuruyemiÅŸ KarÄ±ÅŸÄ±k               3.50 tl
 
-GÜNÜN MENÜSÜ---14--------------------------------------------------------------
+GÃœNÃœN MENÃœSÃœ---14--------------------------------------------------------------
 
-Çorba                           1.50 tl
-Yardımcı Yemek                  3.00 tl
+Ã‡orba                           1.50 tl
+YardÄ±mcÄ± Yemek                  3.00 tl
 Ana Yemek                       8.00 tl
 Ana Yemek Sebzeli               6.00 tl
 Salata / Meyve                  5.00 tl
@@ -153,7 +152,7 @@ Tabldot                        15.00 tl
 -------------------------------------------------------------------------------
 
 */
-#include<stdio.h>        //Kullandığımız headerlar
+#include<stdio.h>        //KullandÄ±ÄŸÄ±mÄ±z headerlar
 #include<stdlib.h>
 #include<locale.h>
 
@@ -161,101 +160,101 @@ Tabldot                        15.00 tl
 
 int main()
 {
-	int takip;//Stoğu görmek ve takibini kullanıcıdan istemek için kullandık.
-	int istek;//isteği switch komutunda kullanarak kullanıcın hangi ürünlerini görmek istediğini bulmak için kullandık.
-	int istek2;//ifler içinde kullanailmek için kullandık (koşullara bağlı olarak)
-	int satis;//kar hesaplamada kullandık.
-	int adet;//kalan ürün miktarını belirten değişken.
+	int takip;//StoÄŸu gÃ¶rmek ve takibini kullanÄ±cÄ±dan istemek iÃ§in kullandÄ±k.
+	int istek;//isteÄŸi switch komutunda kullanarak kullanÄ±cÄ±n hangi Ã¼rÃ¼nlerini gÃ¶rmek istediÄŸini bulmak iÃ§in kullandÄ±k.
+	int istek2;//ifler iÃ§inde kullanailmek iÃ§in kullandÄ±k (koÅŸullara baÄŸlÄ± olarak)
+	int satis;//kar hesaplamada kullandÄ±k.
+	int adet;//kalan Ã¼rÃ¼n miktarÄ±nÄ± belirten deÄŸiÅŸken.
 	
 	float cayalistl=50,buyukCayalistl=50,bitkiCayialistl=50,americanoalistl=50,cappucinoalistl=50,lattealistl=50,espressoalistl=50,aromaliKahvealistl=50,turkKahvesialistl=50,sicakCikolataalistl=50;
-	float peynirliGozlemealistl=25,kar,peynirliSucukluGozlemealistl=25,patatesliGozlemealistl=25,patatesliPeynirliGozlemealistl=25,otluGozlemealistl=25,otluPeynirliGozlemealistl=25;//Gözleme Çeşitleri alis fiyatlari
-	float ayranalistl=50,mesrubatlarKutualistl=50,meyveliSodaalistl=50,sadeSodaalistl=50,Sualistl=50,Limonataalistl=50,meysuMeyveSuyualistl=50,Gazozalistl=50,kidoSutalistl=50;//Soguk içecekler alis fiyatlari
+	float peynirliGozlemealistl=25,kar,peynirliSucukluGozlemealistl=25,patatesliGozlemealistl=25,patatesliPeynirliGozlemealistl=25,otluGozlemealistl=25,otluPeynirliGozlemealistl=25;//GÃ¶zleme Ã‡eÅŸitleri alis fiyatlari
+	float ayranalistl=50,mesrubatlarKutualistl=50,meyveliSodaalistl=50,sadeSodaalistl=50,Sualistl=50,Limonataalistl=50,meysuMeyveSuyualistl=50,Gazozalistl=50,kidoSutalistl=50;//Soguk iÃ§ecekler alis fiyatlari
 	float peynirliSalataalistl=25,yesilSalataalistl=25;
-	float menemenalistl=25,beyazPeynirliOmletalistl=25,kasarliOmletalistl=25,karisikOmletalistl=25;//Menemen çeşitleri alış fiyatı
-	float pizzaTostalistl=25,kasarliTostalistl=25,ciftKasarliTostalistl=25,ayvalikTostalistl=25,karisikTostalistl=25;//Tost çeşitleri alış fiyatı
-	float otlupeynirligozlemeicecekalistl=50,hamburgerpatatesicecekalistl=50,cheeseburgerpatatesicecekalistl=50,patsoicecekalistl=50,peynirligozlemeicecekalistl=50,peynirlisucuklugozlemeicecekalistl=50,patatesgozlemeicecekalistl=50;//Menüler alış fiyatı
-	float poloalistl=50,mentosalistl=50;//Şekerlemeler
-	float salatalikalistl=50,haslanmisyumurtaalistl=50,salamalistl=50,kasaralistl=50,balalistl=50,tereyagialistl=50,beyazPeyniralistl=50;//Kahvaltılar alış tl
-	float pogacaCesitlerialistl=50,acmaalistl=50,simitalistl=50;//Hamur İşi çeşitleri alış tl
-	float hamburgerPatatesalistl=25,cheeseburgerPatatesalistl=25,patsoalistl=25;//Burger Menü
-	float elmaalistl=25,portakalalistl=25,armutalistl=25;//Meyve çeşitleri alış tl
-	float albenialistl=25,albeniAtistirmalikalistl=25,benimoLokmalikalistl=25,biskremKakaolualistl=25,browniIntensealistl=25,burcakalistl=25,cangaalistl=25,canpareCikolataalistl=25,tutkualistl=25,caramioalistl=25,cinalistl=25,cocostaralistl=25,craxalistl=25,ciziPeynirlialistl=25,ciziSadealistl=25,cokonatGofretalistl=25,didoalistl=25,etiBurcakSutluCikolatalialistl=25;//Bisküvi/Gofret çeşitleri alış fiyatı tl
-	float etiCaykeyfiCikolatalialistl=25,etiFormalistl=25,saklikoyalistl=25,etiKaramalistl=25,etiPopkekalistl=25,ulkerCikolataliGofretalistl=25,halleyAtistirmailalistl=25,hanimelleralistl=25,ikramalistl=25,lavivaBaralistl=25,probisalistl=25,kuruyemisalistl=25;//Biskuvi/Gofret çeşitleri alış fiyatı
-	float anayemeketlialistl=25,corbaalistl=25,yardimciyemekalistl=25,anayemeksebzelialistl=25,salatameyvealistl=25,tabldotalistl=25;//GÜNÜN MENÜSÜ alış fiyatı tl
+	float menemenalistl=25,beyazPeynirliOmletalistl=25,kasarliOmletalistl=25,karisikOmletalistl=25;//Menemen Ã§eÅŸitleri alÄ±ÅŸ fiyatÄ±
+	float pizzaTostalistl=25,kasarliTostalistl=25,ciftKasarliTostalistl=25,ayvalikTostalistl=25,karisikTostalistl=25;//Tost Ã§eÅŸitleri alÄ±ÅŸ fiyatÄ±
+	float otlupeynirligozlemeicecekalistl=50,hamburgerpatatesicecekalistl=50,cheeseburgerpatatesicecekalistl=50,patsoicecekalistl=50,peynirligozlemeicecekalistl=50,peynirlisucuklugozlemeicecekalistl=50,patatesgozlemeicecekalistl=50;//MenÃ¼ler alÄ±ÅŸ fiyatÄ±
+	float poloalistl=50,mentosalistl=50;//Åekerlemeler
+	float salatalikalistl=50,haslanmisyumurtaalistl=50,salamalistl=50,kasaralistl=50,balalistl=50,tereyagialistl=50,beyazPeyniralistl=50;//KahvaltÄ±lar alÄ±ÅŸ tl
+	float pogacaCesitlerialistl=50,acmaalistl=50,simitalistl=50;//Hamur Ä°ÅŸi Ã§eÅŸitleri alÄ±ÅŸ tl
+	float hamburgerPatatesalistl=25,cheeseburgerPatatesalistl=25,patsoalistl=25;//Burger MenÃ¼
+	float elmaalistl=25,portakalalistl=25,armutalistl=25;//Meyve Ã§eÅŸitleri alÄ±ÅŸ tl
+	float albenialistl=25,albeniAtistirmalikalistl=25,benimoLokmalikalistl=25,biskremKakaolualistl=25,browniIntensealistl=25,burcakalistl=25,cangaalistl=25,canpareCikolataalistl=25,tutkualistl=25,caramioalistl=25,cinalistl=25,cocostaralistl=25,craxalistl=25,ciziPeynirlialistl=25,ciziSadealistl=25,cokonatGofretalistl=25,didoalistl=25,etiBurcakSutluCikolatalialistl=25;//BiskÃ¼vi/Gofret Ã§eÅŸitleri alÄ±ÅŸ fiyatÄ± tl
+	float etiCaykeyfiCikolatalialistl=25,etiFormalistl=25,saklikoyalistl=25,etiKaramalistl=25,etiPopkekalistl=25,ulkerCikolataliGofretalistl=25,halleyAtistirmailalistl=25,hanimelleralistl=25,ikramalistl=25,lavivaBaralistl=25,probisalistl=25,kuruyemisalistl=25;//Biskuvi/Gofret Ã§eÅŸitleri alÄ±ÅŸ fiyatÄ±
+	float anayemeketlialistl=25,corbaalistl=25,yardimciyemekalistl=25,anayemeksebzelialistl=25,salatameyvealistl=25,tabldotalistl=25;//GÃœNÃœN MENÃœSÃœ alÄ±ÅŸ fiyatÄ± tl
 	
-	int peynirliGozleme=50,peynirliSucukluGozleme=50,patatesliGozleme=50,patatesliPeynirliGozleme=50,otluGozleme=50,otluPeynirliGozleme=50;//Gözleme Çeşitleri
-	int ayran=100,mesrubatlarKutu=100,meyveliSoda=100,sadeSoda=100,Su=100,Limonata=100,meysuMeyveSuyu=100,Gazoz=100,kidoSut=100;//Soğuk içecekler
-	int cay=100,buyukCay=100,bitkiCayi=100,americano=100,cappucino=100,latte=100,espresso=100,aromaliKahve=100,turkKahvesi=100,sicakCikolata=100;//Sıcak içecekler
-	int kasarliTost=50,ciftKasarliTost=50,ayvalikTost=50,pizzaTost=50,karisikTost=50;//Tost çeşitleri
-	int beyazPeynirliOmlet=50,kasarliOmlet=50,karisikOmlet=50,menemen=50;//Menemen çeşitleri
-	int elma=50,portakal=50,armut=50;//Meyve çeşitleri
-	int hamburgerPatates=50,cheeseburgerPatates=50,patso=50;//Burger Menü
-	int anayemeketli=50,corba=50,yardimciyemek=50,anayemeksebzeli=50,salatameyve=50,tabldot=50;//GÜNÜN MENÜSÜ
-	int albeni=50,albeniAtistirmalik=50,benimoLokmalik=50,biskremKakaolu=50,browniIntense=50,burcak=50,canga=50,canpareCikolata=50,tutku=50,caramio=50,cin=50,cocostar=50,crax=50,ciziPeynirli=50,ciziSade=50,cokonatGofret=50,dido=50,etiBurcakSutluCikolatali=50;//Bisküvi/Gofret çeşitleri
+	int peynirliGozleme=50,peynirliSucukluGozleme=50,patatesliGozleme=50,patatesliPeynirliGozleme=50,otluGozleme=50,otluPeynirliGozleme=50;//GÃ¶zleme Ã‡eÅŸitleri
+	int ayran=100,mesrubatlarKutu=100,meyveliSoda=100,sadeSoda=100,Su=100,Limonata=100,meysuMeyveSuyu=100,Gazoz=100,kidoSut=100;//SoÄŸuk iÃ§ecekler
+	int cay=100,buyukCay=100,bitkiCayi=100,americano=100,cappucino=100,latte=100,espresso=100,aromaliKahve=100,turkKahvesi=100,sicakCikolata=100;//SÄ±cak iÃ§ecekler
+	int kasarliTost=50,ciftKasarliTost=50,ayvalikTost=50,pizzaTost=50,karisikTost=50;//Tost Ã§eÅŸitleri
+	int beyazPeynirliOmlet=50,kasarliOmlet=50,karisikOmlet=50,menemen=50;//Menemen Ã§eÅŸitleri
+	int elma=50,portakal=50,armut=50;//Meyve Ã§eÅŸitleri
+	int hamburgerPatates=50,cheeseburgerPatates=50,patso=50;//Burger MenÃ¼
+	int anayemeketli=50,corba=50,yardimciyemek=50,anayemeksebzeli=50,salatameyve=50,tabldot=50;//GÃœNÃœN MENÃœSÃœ
+	int albeni=50,albeniAtistirmalik=50,benimoLokmalik=50,biskremKakaolu=50,browniIntense=50,burcak=50,canga=50,canpareCikolata=50,tutku=50,caramio=50,cin=50,cocostar=50,crax=50,ciziPeynirli=50,ciziSade=50,cokonatGofret=50,dido=50,etiBurcakSutluCikolatali=50;//BiskÃ¼vi/Gofret Ã§eÅŸitleri
 	int etiCaykeyfiCikolatali=50,etiForm=50,saklikoy=50,etiKaram=50,etiPopkek=50,ulkerCikolataliGofret=50,halleyAtistirmail=50,hanimeller=50,ikram=50,lavivaBar=50,probis=50,kuruyemis=50;
-	int peynirliSalata=50,yesilSalata=50;//salata çeşitleri
-	int polo=100,mentos=100;//Şekerlemeler
-	int hamburgerpatatesicecek=100,cheeseburgerpatatesicecek=100,patsoicecek=100,peynirligozlemeicecek=100,peynirlisucuklugozlemeicecek=100,patatesgozlemeicecek=100,otlupeynirligozlemeicecek=100;//Menüler
-	int salatalik=100,haslanmisyumurtaadet=100,salam=100,kasar=100,bal=100,tereyagi=100,beyazPeynir=100;//Kahvaltılar
-	int pogacaCesitleri=100,acma=100,simit=100;//Hamur İşi
+	int peynirliSalata=50,yesilSalata=50;//salata Ã§eÅŸitleri
+	int polo=100,mentos=100;//Åekerlemeler
+	int hamburgerpatatesicecek=100,cheeseburgerpatatesicecek=100,patsoicecek=100,peynirligozlemeicecek=100,peynirlisucuklugozlemeicecek=100,patatesgozlemeicecek=100,otlupeynirligozlemeicecek=100;//MenÃ¼ler
+	int salatalik=100,haslanmisyumurtaadet=100,salam=100,kasar=100,bal=100,tereyagi=100,beyazPeynir=100;//KahvaltÄ±lar
+	int pogacaCesitleri=100,acma=100,simit=100;//Hamur Ä°ÅŸi
 
-setlocale(LC_ALL, "Turkish");// Türkçe Karakter Kütüphanesini Atama
+setlocale(LC_ALL, "Turkish");// TÃ¼rkÃ§e Karakter KÃ¼tÃ¼phanesini Atama
 
-printf("\t----- BEYKOZ ÜNİVERSİTESİ KANTİN  MENÜSÜ -------\n\n");// Genel menümüz  
-printf(" Gözleme çeşitlerini görmek için         1 \n Soğuk içeceklerin çeşidini görmek için  2\n");
-printf(" Sıcak içeceklerin çeşidini görmek için  3\n Salata çeşitlerini görmek için          4\n Menüler görmek için                     5\n");
-printf(" Şekelerlemerin çeşidini görmek için     6\n Kahvaltılık görmek için                 7\n Hamur işi çeşitleri görmek için         8\n");
-printf(" Omletleri görmek için                   9\n Tost çeşitleri görmek için             10\n Burger menu görmek için                11\n Meyve çeşitlerini görmek için          12\n");
-printf(" Bisküvi/Gofret çeşitlerini görmek için 13\n Günün menüsünü görmek için             14'e basınız...\n");
+printf("\t----- BEYKOZ ÃœNÄ°VERSÄ°TESÄ° KANTÄ°N  MENÃœSÃœ -------\n\n");// Genel menÃ¼mÃ¼z  
+printf(" GÃ¶zleme Ã§eÅŸitlerini gÃ¶rmek iÃ§in         1 \n SoÄŸuk iÃ§eceklerin Ã§eÅŸidini gÃ¶rmek iÃ§in  2\n");
+printf(" SÄ±cak iÃ§eceklerin Ã§eÅŸidini gÃ¶rmek iÃ§in  3\n Salata Ã§eÅŸitlerini gÃ¶rmek iÃ§in          4\n MenÃ¼ler gÃ¶rmek iÃ§in                     5\n");
+printf(" Åekelerlemerin Ã§eÅŸidini gÃ¶rmek iÃ§in     6\n KahvaltÄ±lÄ±k gÃ¶rmek iÃ§in                 7\n Hamur iÅŸi Ã§eÅŸitleri gÃ¶rmek iÃ§in         8\n");
+printf(" Omletleri gÃ¶rmek iÃ§in                   9\n Tost Ã§eÅŸitleri gÃ¶rmek iÃ§in             10\n Burger menu gÃ¶rmek iÃ§in                11\n Meyve Ã§eÅŸitlerini gÃ¶rmek iÃ§in          12\n");
+printf(" BiskÃ¼vi/Gofret Ã§eÅŸitlerini gÃ¶rmek iÃ§in 13\n GÃ¼nÃ¼n menÃ¼sÃ¼nÃ¼ gÃ¶rmek iÃ§in             14'e basÄ±nÄ±z...\n");
 
 
 scanf("%d",&istek);//
 system("cls");//Ekran Yenileme
-switch(istek) // ilgili bölüme tıklayınca daha çok çeşitler açılıcak komut
+switch(istek) // ilgili bÃ¶lÃ¼me tÄ±klayÄ±nca daha Ã§ok Ã§eÅŸitler aÃ§Ä±lÄ±cak komut
 {
 	case 1://CASE 1--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-printf("\tGÖZLEME ÇEŞİTLERİ\n\n Peynirli Gözleme                  9.00 tl (Stok takibi için 1)\n Peynirli-Sucuklu Gözleme         10.00 tl (Stok takibi için 2)\n Patatesli Gözleme                 9.00 tl (Stok takibi için 3)\n Patatesli Peynirli Gözleme       10.00 tl (Stok takibi için 4)\n Otlu Gözleme                      8.00 tl (Stok takibi için 5)\n Otlu-Peynirli Gözleme            10.00 tl (Stok takibi için 6)\n\n");
+printf("\tGÃ–ZLEME Ã‡EÅÄ°TLERÄ°\n\n Peynirli GÃ¶zleme                  9.00 tl (Stok takibi iÃ§in 1)\n Peynirli-Sucuklu GÃ¶zleme         10.00 tl (Stok takibi iÃ§in 2)\n Patatesli GÃ¶zleme                 9.00 tl (Stok takibi iÃ§in 3)\n Patatesli Peynirli GÃ¶zleme       10.00 tl (Stok takibi iÃ§in 4)\n Otlu GÃ¶zleme                      8.00 tl (Stok takibi iÃ§in 5)\n Otlu-Peynirli GÃ¶zleme            10.00 tl (Stok takibi iÃ§in 6)\n\n");
 scanf("%d",&istek2);
 if(istek2==1)
 {
 	system("cls");
-	printf("\tPEYNİRLİ GÖZLEME\n\nPeynirli gözleme  bugün  %d'taneydi\n",peynirliGozleme); //listedeki ilk ürün çeşidinden bir tanesini gösterir
-	printf("Şu anda kalan Peynirli gözleme adedi öğrenmek için bugün kaç tane satıldığını girin: ");//kalan adedi gösterir.
-	scanf("%d",&satis);//satış adedinin girilmesi isteniyor
-		if(satis>=50) //satış adedi 50'den fazlaysa gözleme kalmadığını gösteriyor
+	printf("\tPEYNÄ°RLÄ° GÃ–ZLEME\n\nPeynirli gÃ¶zleme  bugÃ¼n  %d'taneydi\n",peynirliGozleme); //listedeki ilk Ã¼rÃ¼n Ã§eÅŸidinden bir tanesini gÃ¶sterir
+	printf("Åu anda kalan Peynirli gÃ¶zleme adedi Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");//kalan adedi gÃ¶sterir.
+	scanf("%d",&satis);//satÄ±ÅŸ adedinin girilmesi isteniyor
+		if(satis>=50) //satÄ±ÅŸ adedi 50'den fazlaysa gÃ¶zleme kalmadÄ±ÄŸÄ±nÄ± gÃ¶steriyor
 	{
-		printf("Elinizde Peynirli Gözleme kalmamıştır");
+		printf("Elinizde Peynirli GÃ¶zleme kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
-	kar=(float)satis*9.00-peynirliGozlemealistl;//kar hesaplama burada ilk baştaki tanımlanan yani toptan alınan fiyat üzerinden satışı hesaplanmıştır.
-	adet=peynirliGozleme-satis;//kaç adet satıldığını gösteren işlem 
-	printf("%d tane peynirli gözleme kalmıştır\n",adet);//kalan adedi gösterir.
-		if(kar<0)//edilen zararı göserir.
+	kar=(float)satis*9.00-peynirliGozlemealistl;//kar hesaplama burada ilk baÅŸtaki tanÄ±mlanan yani toptan alÄ±nan fiyat Ã¼zerinden satÄ±ÅŸÄ± hesaplanmÄ±ÅŸtÄ±r.
+	adet=peynirliGozleme-satis;//kaÃ§ adet satÄ±ldÄ±ÄŸÄ±nÄ± gÃ¶steren iÅŸlem 
+	printf("%d tane peynirli gÃ¶zleme kalmÄ±ÅŸtÄ±r\n",adet);//kalan adedi gÃ¶sterir.
+		if(kar<0)//edilen zararÄ± gÃ¶serir.
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);//zarar ettiğimizi gösterir.
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);//zarar ettiÄŸimizi gÃ¶sterir.
 		break;
 	}
-	printf("Net kar= %.2ftl",kar);//toplam kar  göserir.
+	printf("Net kar= %.2ftl",kar);//toplam kar  gÃ¶serir.
 	
 	
 }
-	else if(istek2==2)//eğer listedeki ikinci ürün seçilirse onu gösterir. Yukarıdaki ile aynı işlemler tekrarlanır.
+	else if(istek2==2)//eÄŸer listedeki ikinci Ã¼rÃ¼n seÃ§ilirse onu gÃ¶sterir. YukarÄ±daki ile aynÄ± iÅŸlemler tekrarlanÄ±r.
 {
 	system("cls");
-	printf("\tPEYNİRLİ-SUCUKLU GÖZLEME\n\nPeynirli-sucuklu gözleme  bugün  %d'taneydi\n",peynirliSucukluGozleme);
-	printf("Şu anda kalan Peynirli-sucuklu gözleme adedi öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tPEYNÄ°RLÄ°-SUCUKLU GÃ–ZLEME\n\nPeynirli-sucuklu gÃ¶zleme  bugÃ¼n  %d'taneydi\n",peynirliSucukluGozleme);
+	printf("Åu anda kalan Peynirli-sucuklu gÃ¶zleme adedi Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde Peynirli-sucuklu gözleme kalmamıştır");
+		printf("Elinizde Peynirli-sucuklu gÃ¶zleme kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
     kar=(float)satis*10.00-peynirliSucukluGozlemealistl;                                       
 	adet=peynirliSucukluGozleme-satis;
-	printf("%d tane peynirli gözleme kalmıştır\n",adet);
+	printf("%d tane peynirli gÃ¶zleme kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 
@@ -264,21 +263,21 @@ if(istek2==1)
 	else if(istek2==3)
 	{
 		system("cls");
-	printf("\tPATATESLİ GÖZLEME\n\nPatatesli Gözleme  bugün  %d'taneydi\n",patatesliGozleme);
-	printf("Şu anda kalan Patatesli Gözleme adedi öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tPATATESLÄ° GÃ–ZLEME\n\nPatatesli GÃ¶zleme  bugÃ¼n  %d'taneydi\n",patatesliGozleme);
+	printf("Åu anda kalan Patatesli GÃ¶zleme adedi Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 
 	if(satis>=50)
 	{
-		printf("Elinizde Patatesli Gözleme kalmamıştır");
+		printf("Elinizde Patatesli GÃ¶zleme kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	kar=(float)satis*9.00-patatesliGozlemealistl; 
 	adet=patatesliGozleme-satis;
-	printf("%d tane Patatesli Gözleme kalmıştır\n",adet);
+	printf("%d tane Patatesli GÃ¶zleme kalmÄ±ÅŸtÄ±r\n",adet);
 		if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -287,20 +286,20 @@ if(istek2==1)
 		else if(istek2==4)
 	{
 		system("cls");
-	printf("\tPATATESLİ PEYNİRLİ GÖZLEME\n\nPatatesli Peynirli Gözleme  bugün  %d'taneydi\n",patatesliPeynirliGozleme);
-	printf("Şu anda kalan Patatesli Peynirli Gözleme adedi öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tPATATESLÄ° PEYNÄ°RLÄ° GÃ–ZLEME\n\nPatatesli Peynirli GÃ¶zleme  bugÃ¼n  %d'taneydi\n",patatesliPeynirliGozleme);
+	printf("Åu anda kalan Patatesli Peynirli GÃ¶zleme adedi Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde  Peynirli Gözleme kalmamıştır");
+		printf("Elinizde  Peynirli GÃ¶zleme kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	kar=(float)satis*9.00-peynirliSucukluGozlemealistl; 
 	adet=patatesliPeynirliGozleme-satis;
-	printf("%d tane Patatesli Peynirli gözleme kalmıştır\n",adet);
+	printf("%d tane Patatesli Peynirli gÃ¶zleme kalmÄ±ÅŸtÄ±r\n",adet);
 		if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -309,21 +308,21 @@ if(istek2==1)
 		else if(istek2==5)
 	{
 		system("cls");
-	printf("\tOTLU GÖZLEME\n\nPatatesli Otlu Gözleme  bugün  %d'taneydi\n",otluGozleme);
-	printf("Şu anda kalan Patatesli Peynirli Gözleme adedi öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tOTLU GÃ–ZLEME\n\nPatatesli Otlu GÃ¶zleme  bugÃ¼n  %d'taneydi\n",otluGozleme);
+	printf("Åu anda kalan Patatesli Peynirli GÃ¶zleme adedi Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde Otlu  Gözleme kalmamıştır");
+		printf("Elinizde Otlu  GÃ¶zleme kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	
 	adet=otluGozleme-satis;
 	kar=(float)satis*8.00-otluGozlemealistl; 
-	printf("%d tane Otlu Gözleme kalmıştır\n",adet);
+	printf("%d tane Otlu GÃ¶zleme kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -332,49 +331,49 @@ printf("Tebrikler! Net kar= %.2ftl",kar);
 	else if(istek2==6)
 	{
 		system("cls");
-	printf("\tOTLU PEYNİRLİ GÖZLEME\n\n Otlu Peynirli Gözleme  bugün  %d'taneydi\n",otluPeynirliGozleme);
-	printf("Şu anda kalan Otlu Peynirli Gözleme  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tOTLU PEYNÄ°RLÄ° GÃ–ZLEME\n\n Otlu Peynirli GÃ¶zleme  bugÃ¼n  %d'taneydi\n",otluPeynirliGozleme);
+	printf("Åu anda kalan Otlu Peynirli GÃ¶zleme  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde Otlu Peynirli Gözleme kalmamıştır");
+		printf("Elinizde Otlu Peynirli GÃ¶zleme kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	kar=(float)satis*10.00-otluPeynirliGozlemealistl; 
 	adet=otluPeynirliGozleme-satis;
-	printf("%d tane Otlu Peynirli Gözleme kalmıştır\n",adet);
+	printf("%d tane Otlu Peynirli GÃ¶zleme kalmÄ±ÅŸtÄ±r\n",adet);
 		if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);	
 }
-//case 1 sonu (Gözleme Çeşitleri)
+//case 1 sonu (GÃ¶zleme Ã‡eÅŸitleri)
 
 	break;
 	
 	case 2://CASE 2-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-printf("   ---------SOĞUK İÇECEKLER-----------\n\n Ayran 200ml                  2.50 tl (Stok Takibi için 1)\n Meşrubatlar(kutu) 330 ml     3.50 tl (Stok Takibi için 2)\n Meyveli soda 200 ml          2.50 tl (Stok Takibi için 3)\n Sade Soda 200ml              2.00 tl (Stok Takibi için 4)\n Su 500ml                     1.25 tl (Stok Takibi için 5)\n Limonata 330ml               2.50 tl (Stok Takibi için 6)\n Meyve Suyu                   2.50 tl (Stok Takibi için 7)\n Gazoz 200ml                  2.50 tl (Stok Takibi için 8)\n Kido süt 200ml               2.50 tl (Stok Takibi için 9)\n");
+printf("   ---------SOÄUK Ä°Ã‡ECEKLER-----------\n\n Ayran 200ml                  2.50 tl (Stok Takibi iÃ§in 1)\n MeÅŸrubatlar(kutu) 330 ml     3.50 tl (Stok Takibi iÃ§in 2)\n Meyveli soda 200 ml          2.50 tl (Stok Takibi iÃ§in 3)\n Sade Soda 200ml              2.00 tl (Stok Takibi iÃ§in 4)\n Su 500ml                     1.25 tl (Stok Takibi iÃ§in 5)\n Limonata 330ml               2.50 tl (Stok Takibi iÃ§in 6)\n Meyve Suyu                   2.50 tl (Stok Takibi iÃ§in 7)\n Gazoz 200ml                  2.50 tl (Stok Takibi iÃ§in 8)\n Kido sÃ¼t 200ml               2.50 tl (Stok Takibi iÃ§in 9)\n");
 scanf("%d",&istek2);
 if(istek2==1)
 {
 	system("cls");
-	printf("\tAYRAN\n\nAyran  bugün  %d'taneydi\n",ayran);
-	printf("Şu anda kalan ayran öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tAYRAN\n\nAyran  bugÃ¼n  %d'taneydi\n",ayran);
+	printf("Åu anda kalan ayran Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç ayran kalmamıştır");
+		printf("Elinizde hiÃ§ ayran kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	
 	adet=ayran-satis;
-	printf("%d tane ayran kalmıştır\n",adet);
+	printf("%d tane ayran kalmÄ±ÅŸtÄ±r\n",adet);
 	kar=(float)satis*2.50-ayranalistl; 
 		if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -384,21 +383,21 @@ if(istek2==1)
 if(istek2==2)
 {
 	system("cls");
-	printf("\tMEŞRUBATLAR(KUTU)\n\nMeşrubatlar(kutu)  bugün  %d'taneydi\n",mesrubatlarKutu );
-	printf("Şu anda kalan Meşrubatlar(kutu) öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tMEÅRUBATLAR(KUTU)\n\nMeÅŸrubatlar(kutu)  bugÃ¼n  %d'taneydi\n",mesrubatlarKutu );
+	printf("Åu anda kalan MeÅŸrubatlar(kutu) Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Meşrubat kalmamıştır");
+		printf("Elinizde hiÃ§ MeÅŸrubat kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	
 	adet=mesrubatlarKutu-satis;
 	kar=(float)satis*3.50-mesrubatlarKutualistl; 
-		printf("%d tane Meşrubat kalmıştır\n",adet);
+		printf("%d tane MeÅŸrubat kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 
@@ -411,20 +410,20 @@ if(istek2==2)
 if(istek2==3)
 {
 	system("cls");
-	printf("\tMEYVELİ SODA\n\nMeyveli Soda  bugün  %d'taneydi\n",meyveliSoda );
-	printf("Şu anda kalan Meyveli Soda öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tMEYVELÄ° SODA\n\nMeyveli Soda  bugÃ¼n  %d'taneydi\n",meyveliSoda );
+	printf("Åu anda kalan Meyveli Soda Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Meyveli Soda kalmamıştır");
+		printf("Elinizde hiÃ§ Meyveli Soda kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=mesrubatlarKutu-satis;
 	kar=(float)satis*2.50-meyveliSodaalistl; 
-		printf("%d tane Meyveli Soda kalmıştır\n",adet);
+		printf("%d tane Meyveli Soda kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 
@@ -437,21 +436,21 @@ if(istek2==3)
 if(istek2==4)
 {
 	system("cls");
-	printf("\tSADE SODA\n\nSade Soda  bugün  %d'taneydi\n",sadeSoda );
-	printf("Şu anda kalan Sade Soda  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tSADE SODA\n\nSade Soda  bugÃ¼n  %d'taneydi\n",sadeSoda );
+	printf("Åu anda kalan Sade Soda  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Sade Soda  kalmamıştır");
+		printf("Elinizde hiÃ§ Sade Soda  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	
 	adet=sadeSoda-satis;
 	kar=(float)satis*2.00-sadeSodaalistl; 
-	printf("%d tane Sade Soda kalmıştır\n",adet);
+	printf("%d tane Sade Soda kalmÄ±ÅŸtÄ±r\n",adet);
 		if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	
@@ -462,21 +461,21 @@ if(istek2==4)
 if(istek2==5)
 {
 	system("cls");
-	printf("\tSU\n\nSu  bugün  %d'taneydi\n",Su );
-	printf("Şu anda kalan Su  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tSU\n\nSu  bugÃ¼n  %d'taneydi\n",Su );
+	printf("Åu anda kalan Su  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Su  kalmamıştır");
+		printf("Elinizde hiÃ§ Su  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	
 	adet=Su -satis;
-	printf("%d tane Su kalmıştır\n",adet);
+	printf("%d tane Su kalmÄ±ÅŸtÄ±r\n",adet);
 		kar=(float)satis*1.25-Sualistl; 
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 
@@ -487,21 +486,21 @@ if(istek2==5)
 if(istek2==6)
 {
 	system("cls");
-	printf("\tLİMONATA\n\nLimonata bugün  %d'taneydi\n",Limonata );
-	printf("Şu anda kalan Limonata  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tLÄ°MONATA\n\nLimonata bugÃ¼n  %d'taneydi\n",Limonata );
+	printf("Åu anda kalan Limonata  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Limonata kalmamıştır");
+		printf("Elinizde hiÃ§ Limonata kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=Limonata -satis;
 	
 	kar=(float)satis*2.50-Limonataalistl; 
-		printf("%d tane Limonata kalmıştır\n",adet);
+		printf("%d tane Limonata kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 
@@ -512,20 +511,20 @@ if(istek2==6)
 if(istek2==7)
 {
 	system("cls");
-	printf("\tMEYSU MEYVE SUYU\n\nMeysu Meyve Suyu bugün  %d'taneydi\n",meysuMeyveSuyu );
-	printf("Şu anda kalan Meysu Meyve Suyu  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tMEYSU MEYVE SUYU\n\nMeysu Meyve Suyu bugÃ¼n  %d'taneydi\n",meysuMeyveSuyu );
+	printf("Åu anda kalan Meysu Meyve Suyu  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Meysu Meyve Suyu kalmamıştır");
+		printf("Elinizde hiÃ§ Meysu Meyve Suyu kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	kar=(float)satis*2.50-meysuMeyveSuyualistl; 
 	adet=meysuMeyveSuyu -satis;
-	printf("%d tane Meysu Meyve Suyu kalmıştır\n",adet);
+	printf("%d tane Meysu Meyve Suyu kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -535,20 +534,20 @@ if(istek2==7)
 if(istek2==8)
 {
 	system("cls");
-	printf("\tGAZOZ\n\nGazoz bugün  %d'taneydi\n",Gazoz  );
-	printf("Şu anda kalan Gazoz   öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tGAZOZ\n\nGazoz bugÃ¼n  %d'taneydi\n",Gazoz  );
+	printf("Åu anda kalan Gazoz   Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Gazoz  kalmamıştır");
+		printf("Elinizde hiÃ§ Gazoz  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 		kar=(float)satis*2.50-Gazozalistl; 
 	adet=Gazoz  -satis;
-	printf("%d tane Gazoz   kalmıştır\n",adet);
+	printf("%d tane Gazoz   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -559,48 +558,48 @@ if(istek2==8)
 if(istek2==9)
 {
 	system("cls");
-	printf("\tKİDO SÜT\n\nKido Süt bugün  %d taneydi\n",kidoSut );
-	printf("Şu anda kalan Kido Süt   öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tKÄ°DO SÃœT\n\nKido SÃ¼t bugÃ¼n  %d taneydi\n",kidoSut );
+	printf("Åu anda kalan Kido SÃ¼t   Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Kido Süt  kalmamıştır");
+		printf("Elinizde hiÃ§ Kido SÃ¼t  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=kidoSut-satis;
 	kar=(float)satis*2.50-kidoSutalistl; 
-	printf("%d tane Kido Süt  kalmıştır\n",adet);
+	printf("%d tane Kido SÃ¼t  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
 	break; 	
 }//if sonu
-//Case 2 sonu (Soğuk içecekler)
+//Case 2 sonu (SoÄŸuk iÃ§ecekler)
 
 
 	case 3://CASE 3---------------------------------------------------------------------------------------------------------------------
-printf("      ---------SICAK İÇECEKLER----------\n\n Çay              1.50 tl (Stok Takibi için 1)\n Büyük çay        3.50 tl (Stok takibi için 2)\n Bitki Çayları    2.50 tl (Stok takibi için 3)\n Americano        4.50 tl (Stok takibi için 4)\n Cappucino        5.00 tl (Stok takibi için 5)\n Latte            5.00 tl (Stok Takibi için 6)\n Espresso         6.00 tl (Stok Takibi için 7)\n Aromalı Kahve    2.50 tl (Stok Takibi için 8)\n Sıcak Çikolata   4.50 tl (Stok Takibi için 9)\n");
+printf("      ---------SICAK Ä°Ã‡ECEKLER----------\n\n Ã‡ay              1.50 tl (Stok Takibi iÃ§in 1)\n BÃ¼yÃ¼k Ã§ay        3.50 tl (Stok takibi iÃ§in 2)\n Bitki Ã‡aylarÄ±    2.50 tl (Stok takibi iÃ§in 3)\n Americano        4.50 tl (Stok takibi iÃ§in 4)\n Cappucino        5.00 tl (Stok takibi iÃ§in 5)\n Latte            5.00 tl (Stok Takibi iÃ§in 6)\n Espresso         6.00 tl (Stok Takibi iÃ§in 7)\n AromalÄ± Kahve    2.50 tl (Stok Takibi iÃ§in 8)\n SÄ±cak Ã‡ikolata   4.50 tl (Stok Takibi iÃ§in 9)\n");
 scanf("%d",&istek2);
 if(istek2==1)
 {
 	system("cls");
-	printf("\tÇAY\n\nÇay  bugün  %d'taneydi\n",cay);
-	printf("Şu anda kalan Çay öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tÃ‡AY\n\nÃ‡ay  bugÃ¼n  %d'taneydi\n",cay);
+	printf("Åu anda kalan Ã‡ay Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Çay kalmamıştır");
+		printf("Elinizde hiÃ§ Ã‡ay kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=cay-satis;
 	kar=(float)satis*1.50-cayalistl;
-	printf("%d tane Çay kalmıştır\n",adet);
+	printf("%d tane Ã‡ay kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -611,20 +610,20 @@ if(istek2==1)
  if(istek2==2)
 {
 	system("cls");
-	printf("\tBüyük Çay\n\nBüyük Çay  bugün  %d'taneydi\n",buyukCay);
-	printf("Şu anda kalan Büyük Çay öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tBÃ¼yÃ¼k Ã‡ay\n\nBÃ¼yÃ¼k Ã‡ay  bugÃ¼n  %d'taneydi\n",buyukCay);
+	printf("Åu anda kalan BÃ¼yÃ¼k Ã‡ay Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Büyük Çay kalmamıştır");
+		printf("Elinizde hiÃ§ BÃ¼yÃ¼k Ã‡ay kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=buyukCay-satis;
 	kar=(float)satis*3.00-buyukCayalistl;
-	printf("%d tane Büyük Çay kalmıştır\n",adet);
+	printf("%d tane BÃ¼yÃ¼k Ã‡ay kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -634,20 +633,20 @@ if(istek2==1)
  if(istek2==3)
 {
 	system("cls");
-	printf("\tBitki Çayları\n\nBitki Çayları  bugün  %d'taneydi\n",bitkiCayi );
-	printf("Şu anda kalan Bitki Çayları öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tBitki Ã‡aylarÄ±\n\nBitki Ã‡aylarÄ±  bugÃ¼n  %d'taneydi\n",bitkiCayi );
+	printf("Åu anda kalan Bitki Ã‡aylarÄ± Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Bitki Çayı kalmamıştır");
+		printf("Elinizde hiÃ§ Bitki Ã‡ayÄ± kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=bitkiCayi-satis;
 	kar=(float)satis*2.50-bitkiCayialistl;
-	printf("%d tane Bitki Çayı kalmıştır\n",adet);
+	printf("%d tane Bitki Ã‡ayÄ± kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -658,20 +657,20 @@ if(istek2==1)
  if(istek2==4)
 {
 	system("cls");
-	printf("\tAmericano\n\nAmericano bugün  %d'taneydi\n",americano );
-	printf("Şu anda kalan Americano  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tAmericano\n\nAmericano bugÃ¼n  %d'taneydi\n",americano );
+	printf("Åu anda kalan Americano  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde Americano  kalmamıştır");
+		printf("Elinizde Americano  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=americano-satis;
 	kar=(float)satis*4.50-americanoalistl;
-	printf("%d tane Americano kalmıştır\n",adet);
+	printf("%d tane Americano kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -682,20 +681,20 @@ if(istek2==1)
  if(istek2==5)
 {
 	system("cls");
-	printf("\tCappucino\n\nCappucino  bugün  %d'taneydi\n",Su );
-	printf("Şu anda kalan Cappucino  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tCappucino\n\nCappucino  bugÃ¼n  %d'taneydi\n",Su );
+	printf("Åu anda kalan Cappucino  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Cappucino  kalmamıştır");
+		printf("Elinizde hiÃ§ Cappucino  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=cappucino -satis;
 	kar=(float)satis*5.00-cappucinoalistl;
-	printf("%d tane Cappucino kalmıştır\n",adet);
+	printf("%d tane Cappucino kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -706,20 +705,20 @@ if(istek2==1)
  if(istek2==6)
 {
 	system("cls");
-	printf("\tLatte\n\nLatte bugün  %d'taneydi\n",latte );
-	printf("Şu anda kalan Latte  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tLatte\n\nLatte bugÃ¼n  %d'taneydi\n",latte );
+	printf("Åu anda kalan Latte  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Latte kalmamıştır");
+		printf("Elinizde hiÃ§ Latte kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=latte -satis;
 	kar=(float)satis*5.00-lattealistl;
-	printf("%d tane Latte kalmıştır\n",adet);
+	printf("%d tane Latte kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -730,20 +729,20 @@ if(istek2==1)
  if(istek2==7)
 {
 	system("cls");
-	printf("\tESPRESSO\n\nEspresso bugün  %d'taneydi\n",espresso );
-	printf("Şu anda kalan Espresso  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tESPRESSO\n\nEspresso bugÃ¼n  %d'taneydi\n",espresso );
+	printf("Åu anda kalan Espresso  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç espresso Suyu kalmamıştır");
+		printf("Elinizde hiÃ§ espresso Suyu kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=espresso -satis;
 	kar=(float)satis*4.00-espressoalistl;
-	printf("%d tane Espresso kalmıştır\n",adet);
+	printf("%d tane Espresso kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -754,20 +753,20 @@ if(istek2==1)
  if(istek2==8)
 {
 	system("cls");
-	printf("\tAROMALI KAHVE\n\nAromalı Kahve bugün  %d'taneydi\n",aromaliKahve  );
-	printf("Şu anda kalan Aromalı Kahve   öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tAROMALI KAHVE\n\nAromalÄ± Kahve bugÃ¼n  %d'taneydi\n",aromaliKahve  );
+	printf("Åu anda kalan AromalÄ± Kahve   Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Aromalı Kahve  kalmamıştır");
+		printf("Elinizde hiÃ§ AromalÄ± Kahve  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=aromaliKahve -satis;
 	kar=(float)satis*6.00-aromaliKahvealistl;
-	printf("%d tane Aromalı Kahve kalmıştır\n",adet);
+	printf("%d tane AromalÄ± Kahve kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -781,50 +780,50 @@ if(istek2==1)
  if(istek2==9)
 {
 	system("cls");
-	printf("\tSICAK ÇİKOLATA\n\nSıcak Çikolata bugün  %d taneydi\n",sicakCikolata  );
-	printf("Şu anda kalan Sıcak Çikolata   öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tSICAK Ã‡Ä°KOLATA\n\nSÄ±cak Ã‡ikolata bugÃ¼n  %d taneydi\n",sicakCikolata  );
+	printf("Åu anda kalan SÄ±cak Ã‡ikolata   Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Sıcak Çikolata  kalmamıştır");
+		printf("Elinizde hiÃ§ SÄ±cak Ã‡ikolata  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=sicakCikolata-satis;
 	kar=(float)satis*4.50-sicakCikolataalistl;
-	printf("%d tane Sıcak Çikolata kalmıştır\n",adet);
+	printf("%d tane SÄ±cak Ã‡ikolata kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
 	break;
 }//if sonu
-//Case 3 sonu (sıcak içecekler)
+//Case 3 sonu (sÄ±cak iÃ§ecekler)
 
 
 
 break;
 case 4://CASE 4----------------------------------------------------------------------------------------------------------------------------------------------------------
-printf("      ----------SALATALAR---------\n\n Yeşil Salata                8.00 tl (Stok Takibi için 1)\n Peynirli Salatalar        10.00 tl (Stok takibi için 2)\n");
+printf("      ----------SALATALAR---------\n\n YeÅŸil Salata                8.00 tl (Stok Takibi iÃ§in 1)\n Peynirli Salatalar        10.00 tl (Stok takibi iÃ§in 2)\n");
 scanf("%d",&istek2);
 if(istek2==1)
 {
 	system("cls");
-	printf("\tYeşil Salata\n\nYeşil Salata  bugün  %d'taneydi\n",yesilSalata);
-	printf("Şu anda kalan Yeşil Salata öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tYeÅŸil Salata\n\nYeÅŸil Salata  bugÃ¼n  %d'taneydi\n",yesilSalata);
+	printf("Åu anda kalan YeÅŸil Salata Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Yeşil Salata kalmamıştır");
+		printf("Elinizde hiÃ§ YeÅŸil Salata kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=yesilSalata-satis;
 	kar=(float)satis*8.00-yesilSalataalistl;
-	printf("%d tane Yeşil Salata kalmıştır\n",adet);
+	printf("%d tane YeÅŸil Salata kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -835,20 +834,20 @@ if(istek2==1)
 if(istek2==2)
 {
 	system("cls");
-	printf("\tPeynirli Salata\n\nPeynirli Salata  bugün  %d'taneydi\n",peynirliSalata);
-	printf("Şu anda kalan Peynirli Salata öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tPeynirli Salata\n\nPeynirli Salata  bugÃ¼n  %d'taneydi\n",peynirliSalata);
+	printf("Åu anda kalan Peynirli Salata Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Peynirli Salata kalmamıştır");
+		printf("Elinizde hiÃ§ Peynirli Salata kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=peynirliSalata-satis;
 	kar=(float)satis*10.00-peynirliSalataalistl;
-	printf("%d tane Peynirli Salata kalmıştır\n",adet);
+	printf("%d tane Peynirli Salata kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -862,25 +861,25 @@ if(istek2==2)
 
 break;
 case 5: //CASE 5--------------------------------------------------------------------------------------------------------------------------
-printf("   ---------MENÜLER-----------\n\n Hamburger + Patates + İçecek             15.00 tl (Stok Takibi için 1)\n Cheeseburger + Patates+İçecek            15.00 tl (Stok Takibi için 2)\n Patso + İçecek                           12.00 tl (Stok Takibi için 3)\n Peynirli Gözleme + İçecek                12.00 tl (Stok Takibi için 4)\n Peynirli Sucuklu Gözleme + İçecek        12.00 tl (Stok Takibi için 5)\n Patates Gözleme + İçecek                 12.00 tl (Stok Takibi için 6)\n Otlu Peynirli Gözleme                    12.00 tl (Stok Takibi için 7)\n\n");
+printf("   ---------MENÃœLER-----------\n\n Hamburger + Patates + Ä°Ã§ecek             15.00 tl (Stok Takibi iÃ§in 1)\n Cheeseburger + Patates+Ä°Ã§ecek            15.00 tl (Stok Takibi iÃ§in 2)\n Patso + Ä°Ã§ecek                           12.00 tl (Stok Takibi iÃ§in 3)\n Peynirli GÃ¶zleme + Ä°Ã§ecek                12.00 tl (Stok Takibi iÃ§in 4)\n Peynirli Sucuklu GÃ¶zleme + Ä°Ã§ecek        12.00 tl (Stok Takibi iÃ§in 5)\n Patates GÃ¶zleme + Ä°Ã§ecek                 12.00 tl (Stok Takibi iÃ§in 6)\n Otlu Peynirli GÃ¶zleme                    12.00 tl (Stok Takibi iÃ§in 7)\n\n");
 scanf("%d",&istek2);
 if(istek2==1)
 {
 	system("cls");
-	printf("\tHamburger+Patates+İçecek\n\nHamburger+Patates+İçecek  bugün  %d'taneydi\n",hamburgerpatatesicecek);
-	printf("Şu anda kalan Hamburger+Patates+İçecek öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tHamburger+Patates+Ä°Ã§ecek\n\nHamburger+Patates+Ä°Ã§ecek  bugÃ¼n  %d'taneydi\n",hamburgerpatatesicecek);
+	printf("Åu anda kalan Hamburger+Patates+Ä°Ã§ecek Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Hamburger+Patates+İçecek kalmamıştır");
+		printf("Elinizde hiÃ§ Hamburger+Patates+Ä°Ã§ecek kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=hamburgerpatatesicecek-satis;
 	kar=(float)satis*15.00-hamburgerpatatesicecekalistl;
-	printf("%d tane Hamburger+patates+İçecek kalmıştır\n",adet);
+	printf("%d tane Hamburger+patates+Ä°Ã§ecek kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -891,20 +890,20 @@ if(istek2==1)
 if(istek2==2)
 {
 	system("cls");
-	printf("\tCheeseburger+Patates+İçecek\n\nCheeseburger+Patates+İçecek  bugün  %d'taneydi\n",cheeseburgerpatatesicecek);
-	printf("Şu anda kalan Cheeseburger+Patates+İçecek öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tCheeseburger+Patates+Ä°Ã§ecek\n\nCheeseburger+Patates+Ä°Ã§ecek  bugÃ¼n  %d'taneydi\n",cheeseburgerpatatesicecek);
+	printf("Åu anda kalan Cheeseburger+Patates+Ä°Ã§ecek Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Cheeseburger+Patates+İçecek kalmamıştır");
+		printf("Elinizde hiÃ§ Cheeseburger+Patates+Ä°Ã§ecek kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=cheeseburgerpatatesicecek-satis;
 	kar=(float)satis*15.00-cheeseburgerpatatesicecekalistl;
-	printf("%d tane Hamburger+patates+İçecek kalmıştır\n",adet);
+	printf("%d tane Hamburger+patates+Ä°Ã§ecek kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -915,20 +914,20 @@ if(istek2==2)
 if(istek2==3)
 {
 	system("cls");
-	printf("\tPatso+İçecek\n\nPatso+İçecek  bugün  %d'taneydi\n",patsoicecek);
-	printf("Şu anda kalan Patso+İçecek öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tPatso+Ä°Ã§ecek\n\nPatso+Ä°Ã§ecek  bugÃ¼n  %d'taneydi\n",patsoicecek);
+	printf("Åu anda kalan Patso+Ä°Ã§ecek Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Patso+İçecek kalmamıştır");
+		printf("Elinizde hiÃ§ Patso+Ä°Ã§ecek kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=patsoicecek-satis;
 	kar=(float)satis*12.00-patsoicecekalistl;
-	printf("%d tane Patso+İçecek kalmıştır\n",adet);
+	printf("%d tane Patso+Ä°Ã§ecek kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -939,20 +938,20 @@ if(istek2==3)
 if(istek2==4)
 {
 	system("cls");
-	printf("\tPeynirli Gözleme + İçecek\n\nPeynirli Gözleme + İçecek  bugün  %d'taneydi\n",peynirligozlemeicecek);
-	printf("Şu anda kalan Peynirli Gözleme + İçecek öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tPeynirli GÃ¶zleme + Ä°Ã§ecek\n\nPeynirli GÃ¶zleme + Ä°Ã§ecek  bugÃ¼n  %d'taneydi\n",peynirligozlemeicecek);
+	printf("Åu anda kalan Peynirli GÃ¶zleme + Ä°Ã§ecek Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Peynirli Gözleme + İçecek kalmamıştır");
+		printf("Elinizde hiÃ§ Peynirli GÃ¶zleme + Ä°Ã§ecek kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=peynirligozlemeicecek-satis;
 	kar=(float)satis*12.00-peynirligozlemeicecekalistl;
-	printf("%d tane Peynirli Gözleme + İçecek kalmıştır\n",adet);
+	printf("%d tane Peynirli GÃ¶zleme + Ä°Ã§ecek kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -963,20 +962,20 @@ if(istek2==4)
 if(istek2==5)
 {
 	system("cls");
-	printf("\tPeynirli Sucuklu Gözleme+İçecek\n\nPeynirli Sucuklu Gözleme + İçecek  bugün  %d'taneydi\n",peynirlisucuklugozlemeicecek);
-	printf("Şu anda kalan Peynirli Sucuklu Gözleme + İçecek öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tPeynirli Sucuklu GÃ¶zleme+Ä°Ã§ecek\n\nPeynirli Sucuklu GÃ¶zleme + Ä°Ã§ecek  bugÃ¼n  %d'taneydi\n",peynirlisucuklugozlemeicecek);
+	printf("Åu anda kalan Peynirli Sucuklu GÃ¶zleme + Ä°Ã§ecek Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Peynirli Sucuklu Gözleme + İçecek kalmamıştır");
+		printf("Elinizde hiÃ§ Peynirli Sucuklu GÃ¶zleme + Ä°Ã§ecek kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=peynirlisucuklugozlemeicecek-satis;
 	kar=(float)satis*12.00-peynirlisucuklugozlemeicecekalistl;
-	printf("%d tane Peynirli Sucuklu Gözleme + İçecek kalmıştır\n",adet);
+	printf("%d tane Peynirli Sucuklu GÃ¶zleme + Ä°Ã§ecek kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -987,20 +986,20 @@ if(istek2==5)
 if(istek2==6)
 {
 	system("cls");
-	printf("\tPatates Gözleme + İçecek\n\nPatates Gözleme + İçecek  bugün  %d'taneydi\n",patatesgozlemeicecek);
-	printf("Şu anda kalan Patates Gozleme + İçecek öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tPatates GÃ¶zleme + Ä°Ã§ecek\n\nPatates GÃ¶zleme + Ä°Ã§ecek  bugÃ¼n  %d'taneydi\n",patatesgozlemeicecek);
+	printf("Åu anda kalan Patates Gozleme + Ä°Ã§ecek Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Patates Gözleme + İçecek kalmamıştır");
+		printf("Elinizde hiÃ§ Patates GÃ¶zleme + Ä°Ã§ecek kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=patatesgozlemeicecek-satis;
 	kar=(float)satis*12.00-patatesgozlemeicecekalistl;
-	printf("%d tane Patates Gözleme + İçecek kalmıştır\n",adet);
+	printf("%d tane Patates GÃ¶zleme + Ä°Ã§ecek kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1011,20 +1010,20 @@ if(istek2==6)
 if(istek2==7)
 {
 	system("cls");
-	printf("\tOtlu Peynirli Gözleme + İçecek\n\nOtlu Peynirli Gözleme + İçecek  bugün  %d'taneydi\n",otlupeynirligozlemeicecek);
-	printf("Şu anda kalan Otlu Peynirli Gözleme + İçecek öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tOtlu Peynirli GÃ¶zleme + Ä°Ã§ecek\n\nOtlu Peynirli GÃ¶zleme + Ä°Ã§ecek  bugÃ¼n  %d'taneydi\n",otlupeynirligozlemeicecek);
+	printf("Åu anda kalan Otlu Peynirli GÃ¶zleme + Ä°Ã§ecek Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Otlu Peynirli Gözleme + İçecek kalmamıştır");
+		printf("Elinizde hiÃ§ Otlu Peynirli GÃ¶zleme + Ä°Ã§ecek kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=otlupeynirligozlemeicecek-satis;
 	kar=(float)satis*12.00-otlupeynirligozlemeicecekalistl;
-	printf("%d tane Otlu Peynirli Gözleme + İçecek kalmıştır\n",adet);
+	printf("%d tane Otlu Peynirli GÃ¶zleme + Ä°Ã§ecek kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1032,7 +1031,7 @@ if(istek2==7)
 	
 	
 }//if sonu
-//case 5 sonu (Menüler)
+//case 5 sonu (MenÃ¼ler)
 
 
 
@@ -1040,25 +1039,25 @@ if(istek2==7)
 
 break;
 case 6: //CASE 6-------------------------------------------------------------------------------------------------------------------------
-printf("   ---------ŞEKERLEMELER-----------\n\n Polo              2.50 tl (Stok Takibi için 1)\n Mentos            2.50 tl (Stok Takibi için 2)\n\n");
+printf("   ---------ÅEKERLEMELER-----------\n\n Polo              2.50 tl (Stok Takibi iÃ§in 1)\n Mentos            2.50 tl (Stok Takibi iÃ§in 2)\n\n");
 scanf("%d",&istek2);
 if(istek2==1)
 {
 	system("cls");
-	printf("\tPolo\n\nPolo  bugün  %d'taneydi\n",polo);
-	printf("Şu anda kalan Polo öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tPolo\n\nPolo  bugÃ¼n  %d'taneydi\n",polo);
+	printf("Åu anda kalan Polo Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Polo kalmamıştır");
+		printf("Elinizde hiÃ§ Polo kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=polo-satis;
 	kar=(float)satis*2.50-poloalistl;
-	printf("%d tane Polo kalmıştır\n",adet);
+	printf("%d tane Polo kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1069,50 +1068,50 @@ if(istek2==1)
 if(istek2==2)
 {
 	system("cls");
-	printf("\tMentos\n\nMentos  bugün  %d'taneydi\n",mentos);
-	printf("Şu anda kalan Mentos öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tMentos\n\nMentos  bugÃ¼n  %d'taneydi\n",mentos);
+	printf("Åu anda kalan Mentos Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
-	if(satis>=100)//koşulumuz
+	if(satis>=100)//koÅŸulumuz
 	{
-		printf("Elinizde hiç Mentos kalmamıştır");
+		printf("Elinizde hiÃ§ Mentos kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=mentos-satis;//adet hesaplama
 	kar=(float)satis*2.50-mentosalistl;//kar hesaplama 
-	printf("%d tane mentos kalmıştır\n",adet); // kalan adet
+	printf("%d tane mentos kalmÄ±ÅŸtÄ±r\n",adet); // kalan adet
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
 	break;
 }//if sonu
-//Case 6 sonu (Şekerlemeler)
+//Case 6 sonu (Åekerlemeler)
 
 
 
 break;
 case 7: //CASE 7--------------------------------------------------------------------------------------------------------------
-printf("   ---------KAHVALTILAR-----------\n\n Salatalık 60 gr               1.50 tl (Stok Takibi için 1)\n Haşlanmış Yumurta Adet        1.50 tl (Stok Takibi için 2)\n Salam 30 gr                   2.00 tl (Stok Takibi için 3)\n Kaşar 30 gr                   2.00 tl (Stok Takibi için 4)\n Bal                           2.00 tl (Stok Takibi için 5)\n Tereyağı 10 gr                2.00 tl (Stok Takibi için 6)\n Beyaz Peynir 30 gr           12.00 tl (Stok Takibi için 7)\n\n");
+printf("   ---------KAHVALTILAR-----------\n\n SalatalÄ±k 60 gr               1.50 tl (Stok Takibi iÃ§in 1)\n HaÅŸlanmÄ±ÅŸ Yumurta Adet        1.50 tl (Stok Takibi iÃ§in 2)\n Salam 30 gr                   2.00 tl (Stok Takibi iÃ§in 3)\n KaÅŸar 30 gr                   2.00 tl (Stok Takibi iÃ§in 4)\n Bal                           2.00 tl (Stok Takibi iÃ§in 5)\n TereyaÄŸÄ± 10 gr                2.00 tl (Stok Takibi iÃ§in 6)\n Beyaz Peynir 30 gr           12.00 tl (Stok Takibi iÃ§in 7)\n\n");
 scanf("%d",&istek2); 
 if(istek2==1)
 {
 	system("cls");
-	printf("\tSalatalık 60 gr \n\nSalatalık 60 gr  bugün  %d'taneydi\n",salatalik);
-	printf("Şu anda kalan Salatalık 60 gr öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tSalatalÄ±k 60 gr \n\nSalatalÄ±k 60 gr  bugÃ¼n  %d'taneydi\n",salatalik);
+	printf("Åu anda kalan SalatalÄ±k 60 gr Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Salatalık 60 gr kalmamıştır");
+		printf("Elinizde hiÃ§ SalatalÄ±k 60 gr kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=salatalik-satis;
 	kar=(float)satis*1.50-salatalikalistl;
-	printf("%d tane Salatalık 60 gr  kalmıştır\n",adet);
+	printf("%d tane SalatalÄ±k 60 gr  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1123,20 +1122,20 @@ if(istek2==1)
 if(istek2==2)
 {
 	system("cls");
-	printf("\tHaşlanmış Yumurta Adet\n\nHaşlanmış Yumurta Adet  bugün  %d'taneydi\n",haslanmisyumurtaadet);
-	printf("Şu anda kalan Haşlanmış Yumurta Adet öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tHaÅŸlanmÄ±ÅŸ Yumurta Adet\n\nHaÅŸlanmÄ±ÅŸ Yumurta Adet  bugÃ¼n  %d'taneydi\n",haslanmisyumurtaadet);
+	printf("Åu anda kalan HaÅŸlanmÄ±ÅŸ Yumurta Adet Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Haşlanmış Yumurta Adet kalmamıştır");
+		printf("Elinizde hiÃ§ HaÅŸlanmÄ±ÅŸ Yumurta Adet kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=haslanmisyumurtaadet-satis;
 	kar=(float)satis*1.50-haslanmisyumurtaalistl;
-	printf("%d tane Haşlanmış Yumurta Adet kalmıştır\n",adet);
+	printf("%d tane HaÅŸlanmÄ±ÅŸ Yumurta Adet kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1147,20 +1146,20 @@ if(istek2==2)
 if(istek2==3)
 {
 	system("cls");
-	printf("\tSalam 30 gr \n\nSalam 30 gr  bugün  %d'taneydi\n",salam);
-	printf("Şu anda kalan Salam 30 gr öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tSalam 30 gr \n\nSalam 30 gr  bugÃ¼n  %d'taneydi\n",salam);
+	printf("Åu anda kalan Salam 30 gr Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Salam 30 gr  kalmamıştır");
+		printf("Elinizde hiÃ§ Salam 30 gr  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=salam-satis;
 	kar=(float)satis*2.00-salamalistl;
-	printf("%d tane Salam kalmıştır\n",adet);
+	printf("%d tane Salam kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1171,20 +1170,20 @@ if(istek2==3)
 if(istek2==4)
 {
 	system("cls");
-	printf("\tKaşar 30 gr \n\nPeynirli Kaşar 30 gr   bugün  %d'taneydi\n",kasar);
-	printf("Şu anda kalan Kaşar 30 gr  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tKaÅŸar 30 gr \n\nPeynirli KaÅŸar 30 gr   bugÃ¼n  %d'taneydi\n",kasar);
+	printf("Åu anda kalan KaÅŸar 30 gr  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Kaşar 30 gr kalmamıştır");
+		printf("Elinizde hiÃ§ KaÅŸar 30 gr kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=kasar-satis;
 	kar=(float)satis*2.00-kasaralistl;
-	printf("%d tane Kaşar 30 gr kalmıştır\n",adet);
+	printf("%d tane KaÅŸar 30 gr kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1195,20 +1194,20 @@ if(istek2==4)
 if(istek2==5)
 {
 	system("cls");
-	printf("\tBal 10 gr\n\nBal 10 gr  bugün  %d'taneydi\n",bal);
-	printf("Şu anda kalan Bal 10 gr öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tBal 10 gr\n\nBal 10 gr  bugÃ¼n  %d'taneydi\n",bal);
+	printf("Åu anda kalan Bal 10 gr Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Bal 10 gr kalmamıştır");
+		printf("Elinizde hiÃ§ Bal 10 gr kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=bal-satis;
-	printf("%d tane Bal 10 gr  kalmıştır\n",adet);
+	printf("%d tane Bal 10 gr  kalmÄ±ÅŸtÄ±r\n",adet);
 	kar=(float)satis*2.00-balalistl;
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1219,20 +1218,20 @@ if(istek2==5)
 if(istek2==6)
 {
 	system("cls");
-	printf("\tTereyağı 10 gr\n\nTereyağı 10 gr  bugün  %d'taneydi\n",tereyagi);
-	printf("Şu anda kalan Tereyağı 10 gr öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tTereyaÄŸÄ± 10 gr\n\nTereyaÄŸÄ± 10 gr  bugÃ¼n  %d'taneydi\n",tereyagi);
+	printf("Åu anda kalan TereyaÄŸÄ± 10 gr Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Tereyağı 10 gr kalmamıştır");
+		printf("Elinizde hiÃ§ TereyaÄŸÄ± 10 gr kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=tereyagi-satis;
 	kar=(float)satis*2.00-tereyagialistl;
-	printf("%d tane Tereyağı 10 gr  kalmıştır\n",adet);
+	printf("%d tane TereyaÄŸÄ± 10 gr  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1243,20 +1242,20 @@ if(istek2==6)
 if(istek2==7)
 {
 	system("cls");
-	printf("\tBeyaz Peynir 30 gr \n\nBeyaz Peynir 30 gr  bugün  %d'taneydi\n",beyazPeynir);
-	printf("Şu anda kalan Beyaz Peynir 30 gr  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tBeyaz Peynir 30 gr \n\nBeyaz Peynir 30 gr  bugÃ¼n  %d'taneydi\n",beyazPeynir);
+	printf("Åu anda kalan Beyaz Peynir 30 gr  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Beyaz Peynir 30 gr kalmamıştır");
+		printf("Elinizde hiÃ§ Beyaz Peynir 30 gr kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=beyazPeynir-satis;
 	kar=(float)satis*2.00-beyazPeyniralistl;
-	printf("%d tane Beyaz Peynir 30 gr kalmıştır\n",adet);
+	printf("%d tane Beyaz Peynir 30 gr kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1264,29 +1263,29 @@ if(istek2==7)
 	
 	
 }//if sonu
-//case 7 sonu (Kahvaltılar)
+//case 7 sonu (KahvaltÄ±lar)
 
 break;
 case 8: //CASE 8-------------------------------------------------------------------------------------------------------------------------
-printf("   ---------HAMUR İŞİ-----------\n\n Poğaça Çeşitleri        2.00 tl (Stok Takibi için 1)\n Açma                    2.00 tl (Stok Takibi için 2)\n Simit                   2.00 tl (Stok Takibi için 3)\n\n");
+printf("   ---------HAMUR Ä°ÅÄ°-----------\n\n PoÄŸaÃ§a Ã‡eÅŸitleri        2.00 tl (Stok Takibi iÃ§in 1)\n AÃ§ma                    2.00 tl (Stok Takibi iÃ§in 2)\n Simit                   2.00 tl (Stok Takibi iÃ§in 3)\n\n");
 scanf("%d",&istek2);
 if(istek2==1)
 {
 	system("cls");
-	printf("\tPoğaça ÇEşitleri\n\nPoğaça Çeşitleri  bugün  %d'taneydi\n",pogacaCesitleri);
-	printf("Şu anda kalan Poğaça Çeşitleri öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tPoÄŸaÃ§a Ã‡EÅŸitleri\n\nPoÄŸaÃ§a Ã‡eÅŸitleri  bugÃ¼n  %d'taneydi\n",pogacaCesitleri);
+	printf("Åu anda kalan PoÄŸaÃ§a Ã‡eÅŸitleri Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Poğaça Çeşitleri kalmamıştır");
+		printf("Elinizde hiÃ§ PoÄŸaÃ§a Ã‡eÅŸitleri kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=pogacaCesitleri-satis;
 	kar=(float)satis*2.00-pogacaCesitlerialistl;
-	printf("%d tane Poğaça Çeşitleri kalmıştır\n",adet);
+	printf("%d tane PoÄŸaÃ§a Ã‡eÅŸitleri kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1297,20 +1296,20 @@ if(istek2==1)
 if(istek2==2)
 {
 	system("cls");
-	printf("\tAçma\n\nAçma  bugün  %d'taneydi\n",acma);
-	printf("Şu anda kalan Açma öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tAÃ§ma\n\nAÃ§ma  bugÃ¼n  %d'taneydi\n",acma);
+	printf("Åu anda kalan AÃ§ma Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Açma kalmamıştır");
+		printf("Elinizde hiÃ§ AÃ§ma kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=acma-satis;
 	kar=(float)satis*2.00-acmaalistl;
-	printf("%d tane Açma kalmıştır\n",adet);
+	printf("%d tane AÃ§ma kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1322,20 +1321,20 @@ if(istek2==2)
 if(istek2==3)
 {
 	system("cls");
-	printf("\tSimit\n\nSimit  bugün  %d'taneydi\n",simit);
-	printf("Şu anda kalan Simit öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tSimit\n\nSimit  bugÃ¼n  %d'taneydi\n",simit);
+	printf("Åu anda kalan Simit Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=100)
 	{
-		printf("Elinizde hiç Simit kalmamıştır");
+		printf("Elinizde hiÃ§ Simit kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=simit-satis;
 	kar=(float)satis*2.00-simitalistl;
-	printf("%d tane Simit kalmıştır\n",adet);
+	printf("%d tane Simit kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1344,30 +1343,30 @@ if(istek2==3)
 	
 }//if sonu
 break;
-//case 8 sonu (hamur işi)
+//case 8 sonu (hamur iÅŸi)
 
 
 break;
 case 9: //CASE 9-------------------------------------------------------------------------------------------------------------------------------------------------------
-printf("      ---------OMLET ÇEŞİTLERİ----------\n\n Beyaz Peynirli Omlet            7.00 tl (Stok Takibi için 1)\n Kaşarlı Omlet                   8.00 tl (Stok takibi için 2)\n Karışık Omlet                   9.00 tl (Stok takibi için 3)\n Menemen                        10.00 tl (Stok takibi için 4)\n");
+printf("      ---------OMLET Ã‡EÅÄ°TLERÄ°----------\n\n Beyaz Peynirli Omlet            7.00 tl (Stok Takibi iÃ§in 1)\n KaÅŸarlÄ± Omlet                   8.00 tl (Stok takibi iÃ§in 2)\n KarÄ±ÅŸÄ±k Omlet                   9.00 tl (Stok takibi iÃ§in 3)\n Menemen                        10.00 tl (Stok takibi iÃ§in 4)\n");
 scanf("%d",&istek2);
 if(istek2==1)
 {
 system("cls");
-	printf("\tBEYAZ PEYNİRLİ OMLET\n\nBeyaz Peynirli Omlet bugün  %d taneydi\n",beyazPeynirliOmlet  );
-	printf("Şu anda kalan Beyaz Peynirli Omlet  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tBEYAZ PEYNÄ°RLÄ° OMLET\n\nBeyaz Peynirli Omlet bugÃ¼n  %d taneydi\n",beyazPeynirliOmlet  );
+	printf("Åu anda kalan Beyaz Peynirli Omlet  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Beyaz Peynirli Omlet  kalmamıştır");
+		printf("Elinizde hiÃ§ Beyaz Peynirli Omlet  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=beyazPeynirliOmlet-satis;
 	kar=(float)satis*7.00-beyazPeynirliOmletalistl;
-	printf("%d tane Beyaz Peynirli Omlet  kalmıştır\n",adet);
+	printf("%d tane Beyaz Peynirli Omlet  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1379,20 +1378,20 @@ system("cls");
 if(istek2==2)
 {
 system("cls");
-	printf("\t KAŞARLI OMLET\n\nKaşarlı Omlet bugün  %d taneydi\n",kasarliOmlet  );
-	printf("Şu anda kalan Kaşarlı Omlet   öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t KAÅARLI OMLET\n\nKaÅŸarlÄ± Omlet bugÃ¼n  %d taneydi\n",kasarliOmlet  );
+	printf("Åu anda kalan KaÅŸarlÄ± Omlet   Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Kaşarlı Omlet  kalmamıştır");
+		printf("Elinizde hiÃ§ KaÅŸarlÄ± Omlet  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=kasarliOmlet-satis;
 	kar=(float)satis*8.00-kasarliOmletalistl;
-	printf("%d tane Kaşarlı Omlet  kalmıştır\n",adet);
+	printf("%d tane KaÅŸarlÄ± Omlet  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1404,20 +1403,20 @@ system("cls");
 if(istek2==3)
 {
 system("cls");
-	printf("\t KARIŞIK OMLET\n\nKarışık Omlet bugün  %d taneydi\n",karisikOmlet  );
-	printf("Şu anda kalan Karışık Omlet   öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t KARIÅIK OMLET\n\nKarÄ±ÅŸÄ±k Omlet bugÃ¼n  %d taneydi\n",karisikOmlet  );
+	printf("Åu anda kalan KarÄ±ÅŸÄ±k Omlet   Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Karışık Omlet  kalmamıştır");
+		printf("Elinizde hiÃ§ KarÄ±ÅŸÄ±k Omlet  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=karisikOmlet-satis;
 	kar=(float)satis*9.00-karisikOmletalistl;
-	printf("%d tane Karışık Omlet kalmıştır\n",adet);
+	printf("%d tane KarÄ±ÅŸÄ±k Omlet kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1429,20 +1428,20 @@ system("cls");
 if(istek2==4)
 {
 system("cls");
-	printf("\t MENEMEN\n\nMenemen bugün  %d taneydi\n",menemen  );
-	printf("Şu anda kalan Menemen   öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t MENEMEN\n\nMenemen bugÃ¼n  %d taneydi\n",menemen  );
+	printf("Åu anda kalan Menemen   Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Menemen  kalmamıştır");
+		printf("Elinizde hiÃ§ Menemen  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=menemen-satis;
 	kar=(float)satis*10.00-menemenalistl;
-	printf("%d tane Menemen kalmıştır\n",adet);
+	printf("%d tane Menemen kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1451,7 +1450,7 @@ system("cls");
 
 	
 }//if sonu
-//case 9 sonu (Omlet Çeşitleri)
+//case 9 sonu (Omlet Ã‡eÅŸitleri)
 
 
 
@@ -1460,25 +1459,25 @@ system("cls");
 break;	
 case 10://CASE 10-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	
-printf("      ---------TOST ÇEŞİTLERİ----------\n\n Kaşarlı tost             6.00 tl (Stok Takibi için 1)\n Çift Kaşarlı Tost        7.00 tl (Stok takibi için 2)\n Karışık Tost             7.00 tl (Stok takibi için 3)\n Ayvalık Tost             7.00 tl (Stok takibi için 4)\n Pizza Tost               7.00 tl (Stok takibi için 5)\n");
+printf("      ---------TOST Ã‡EÅÄ°TLERÄ°----------\n\n KaÅŸarlÄ± tost             6.00 tl (Stok Takibi iÃ§in 1)\n Ã‡ift KaÅŸarlÄ± Tost        7.00 tl (Stok takibi iÃ§in 2)\n KarÄ±ÅŸÄ±k Tost             7.00 tl (Stok takibi iÃ§in 3)\n AyvalÄ±k Tost             7.00 tl (Stok takibi iÃ§in 4)\n Pizza Tost               7.00 tl (Stok takibi iÃ§in 5)\n");
 scanf("%d",&istek2);
 if(istek2==1)
 {
 system("cls");
-	printf("\tKAŞARLI TOST\n\nKaşarlı tost bugün  %d taneydi\n",kasarliTost  );
-	printf("Şu anda kalan Kaşarlı Tost   öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tKAÅARLI TOST\n\nKaÅŸarlÄ± tost bugÃ¼n  %d taneydi\n",kasarliTost  );
+	printf("Åu anda kalan KaÅŸarlÄ± Tost   Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Kaşarlı Tost  kalmamıştır");
+		printf("Elinizde hiÃ§ KaÅŸarlÄ± Tost  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=kasarliTost-satis;
 	kar=(float)satis*6.00-kasarliTostalistl;
-	printf("%d tane Kaşarlı Tost  kalmıştır\n",adet);
+	printf("%d tane KaÅŸarlÄ± Tost  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1490,20 +1489,20 @@ system("cls");
 if(istek2==2)
 {
 	system("cls");
-	printf("\tÇİFT KAŞARLI TOST\n\nÇift kaşarlı tost bugün  %d taneydi\n",ciftKasarliTost  );
-	printf("Şu anda kalan Çift Kaşarlı Tost   öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tÃ‡Ä°FT KAÅARLI TOST\n\nÃ‡ift kaÅŸarlÄ± tost bugÃ¼n  %d taneydi\n",ciftKasarliTost  );
+	printf("Åu anda kalan Ã‡ift KaÅŸarlÄ± Tost   Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Çift Kaşarlı Tost  kalmamıştır");
+		printf("Elinizde hiÃ§ Ã‡ift KaÅŸarlÄ± Tost  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=ciftKasarliTost-satis;
 	kar=(float)satis*7.00-ciftKasarliTostalistl;
-	printf("%d tane Çift Kaşarlı Tost  kalmıştır\n",adet);
+	printf("%d tane Ã‡ift KaÅŸarlÄ± Tost  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1515,20 +1514,20 @@ if(istek2==2)
 if(istek2==3)
 {
 	system("cls");
-	printf("\t KARIŞIK TOST\n\n Karışık tost bugün  %d taneydi\n",karisikTost  );
-	printf("Şu anda kalan Karışık tost   öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t KARIÅIK TOST\n\n KarÄ±ÅŸÄ±k tost bugÃ¼n  %d taneydi\n",karisikTost  );
+	printf("Åu anda kalan KarÄ±ÅŸÄ±k tost   Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç  Karışık tost  kalmamıştır");
+		printf("Elinizde hiÃ§  KarÄ±ÅŸÄ±k tost  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=karisikTost-satis;
 	kar=(float)satis*7.00-karisikTostalistl;
-	printf("%d tane Karışık tost   kalmıştır\n",adet);
+	printf("%d tane KarÄ±ÅŸÄ±k tost   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1540,20 +1539,20 @@ if(istek2==3)
 if(istek2==4)
 {
 	system("cls");
-	printf("\t AYVALIK TOST\n\n Ayvalık Tost bugün  %d taneydi\n",ayvalikTost  );
-	printf("Şu anda kalan Ayvalık Tost  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t AYVALIK TOST\n\n AyvalÄ±k Tost bugÃ¼n  %d taneydi\n",ayvalikTost  );
+	printf("Åu anda kalan AyvalÄ±k Tost  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Ayvalık Tost  kalmamıştır");
+		printf("Elinizde hiÃ§ AyvalÄ±k Tost  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=ayvalikTost-satis;
 	kar=(float)satis*7.00-ayvalikTostalistl;
-	printf("%d tane Ayvalık Tost   kalmıştır\n",adet);
+	printf("%d tane AyvalÄ±k Tost   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1564,49 +1563,49 @@ if(istek2==4)
 if(istek2==5)
 {
 	system("cls");
-	printf("\t PİZZA TOST\n\n Pizza Tost bugün  %d taneydi\n",pizzaTost );
-	printf("Şu anda kalan Pizza Tost  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t PÄ°ZZA TOST\n\n Pizza Tost bugÃ¼n  %d taneydi\n",pizzaTost );
+	printf("Åu anda kalan Pizza Tost  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Pizza Tost kalmamıştır");
+		printf("Elinizde hiÃ§ Pizza Tost kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=pizzaTost-satis;
 	kar=(float)satis*7.00-pizzaTostalistl;
-	printf("%d tane Pizza Tost   kalmıştır\n",adet);
+	printf("%d tane Pizza Tost   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
 	break;
 }// if sonu
-//case 10 sonu (Tost Çeşitleri)
+//case 10 sonu (Tost Ã‡eÅŸitleri)
 
 
 break;
 case 11://CASE 11---------------------------------------------------------------------------------------------------------------------------
-printf("      ---------BURGER MENÜ----------\n\n Hamburger+Patates          12.00 tl (Stok Takibi için 1)\n Cheeseburger+Patates       13.00 tl (Stok takibi için 2)\n Patso                       9.00 tl (Stok takibi için 3)\n ");
+printf("      ---------BURGER MENÃœ----------\n\n Hamburger+Patates          12.00 tl (Stok Takibi iÃ§in 1)\n Cheeseburger+Patates       13.00 tl (Stok takibi iÃ§in 2)\n Patso                       9.00 tl (Stok takibi iÃ§in 3)\n ");
 scanf("%d",&istek2);
 if(istek2==1)
 {	
 	system("cls");
-	printf("\t HAMBURGER+PATATES MENÜ\n\n Hamburger+Patates menü bugün  %d taneydi\n",hamburgerPatates);
-	printf("Şu anda kalan Hamburger+Patates menü adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t HAMBURGER+PATATES MENÃœ\n\n Hamburger+Patates menÃ¼ bugÃ¼n  %d taneydi\n",hamburgerPatates);
+	printf("Åu anda kalan Hamburger+Patates menÃ¼ adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Hamburger+Patates menü kalmamıştır");
+		printf("Elinizde hiÃ§ Hamburger+Patates menÃ¼ kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=hamburgerPatates-satis;
 	kar=(float)satis*12.00-hamburgerPatatesalistl;
-	printf("%d tane Hamburger+Patates menü   kalmıştır\n",adet);
+	printf("%d tane Hamburger+Patates menÃ¼   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1618,20 +1617,20 @@ if(istek2==1)
 if(istek2==2)
 {	
 	system("cls");
-	printf("\t CHEESEBURGER+PATATES MENÜ\n\n Cheeseburger+Patates menü bugün  %d taneydi\n",cheeseburgerPatates);
-	printf("Şu anda kalan Cheeseburger+Patates menü adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t CHEESEBURGER+PATATES MENÃœ\n\n Cheeseburger+Patates menÃ¼ bugÃ¼n  %d taneydi\n",cheeseburgerPatates);
+	printf("Åu anda kalan Cheeseburger+Patates menÃ¼ adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Cheeseburger+Patates menü kalmamıştır");
+		printf("Elinizde hiÃ§ Cheeseburger+Patates menÃ¼ kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=cheeseburgerPatates-satis;
 	kar=(float)satis*13.00-cheeseburgerPatatesalistl;
-	printf("%d tane Cheeseburger+Patates menü   kalmıştır\n",adet);
+	printf("%d tane Cheeseburger+Patates menÃ¼   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1641,50 +1640,50 @@ if(istek2==2)
 if(istek2==3)
 {	
 	system("cls");
-	printf("\t PATSO\n\n Patso  bugün  %d taneydi\n",patso);
-	printf("Şu anda kalan Patso adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t PATSO\n\n Patso  bugÃ¼n  %d taneydi\n",patso);
+	printf("Åu anda kalan Patso adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Cheeseburger+Patates menü kalmamıştır");
+		printf("Elinizde hiÃ§ Cheeseburger+Patates menÃ¼ kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=patso-satis;
 	kar=(float)satis*9.00-patsoalistl;
-	printf("%d tane Patso menü   kalmıştır\n",adet);
+	printf("%d tane Patso menÃ¼   kalmÄ±ÅŸtÄ±r\n",adet);
 	
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
 	break;	
 }//
-//case 11 sonu (Burger Menü)
+//case 11 sonu (Burger MenÃ¼)
 
 break;
 case 12://CASE 12---------------------------------------------------------------------------------------------------------------------------
-printf("      ---------MEYVELER----------\n\n Elma adet           2.00 tl (Stok Takibi için 1)\n Armut adet          2.00 tl (Stok takibi için 2)\n Portakal adet       2.00 tl (Stok takibi için 3)\n ");
+printf("      ---------MEYVELER----------\n\n Elma adet           2.00 tl (Stok Takibi iÃ§in 1)\n Armut adet          2.00 tl (Stok takibi iÃ§in 2)\n Portakal adet       2.00 tl (Stok takibi iÃ§in 3)\n ");
 scanf("%d",&istek2);
 if(istek2==1)
 {
 	
 	system("cls");
-	printf("\t ELMA\n\n Elma bugün  %d taneydi\n",elma);
-	printf("Şu anda kalan Elma adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t ELMA\n\n Elma bugÃ¼n  %d taneydi\n",elma);
+	printf("Åu anda kalan Elma adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Elma kalmamıştır");
+		printf("Elinizde hiÃ§ Elma kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=elma-satis;
 	kar=(float)satis*2.00-elmaalistl;
-	printf("%d tane Elma   kalmıştır\n",adet);
+	printf("%d tane Elma   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1697,20 +1696,20 @@ if(istek2==2)
 {
 	
 	system("cls");
-	printf("\t ARMUT\n\n Armut bugün  %d taneydi\n",armut);
-	printf("Şu anda kalan Armut adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t ARMUT\n\n Armut bugÃ¼n  %d taneydi\n",armut);
+	printf("Åu anda kalan Armut adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Armut kalmamıştır");
+		printf("Elinizde hiÃ§ Armut kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=armut-satis;
 	kar=(float)satis*2.00-armutalistl;
-	printf("%d tane Armut   kalmıştır\n",adet);
+	printf("%d tane Armut   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1724,20 +1723,20 @@ if(istek2==3)
 {
 	
 	system("cls");
-	printf("\t PORTAKAL\n\n Portakal bugün  %d taneydi\n",portakal);
-	printf("Şu anda kalan Armut adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t PORTAKAL\n\n Portakal bugÃ¼n  %d taneydi\n",portakal);
+	printf("Åu anda kalan Armut adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Portakal kalmamıştır");
+		printf("Elinizde hiÃ§ Portakal kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=portakal-satis;
 	kar=(float)satis*2.00-portakalalistl;
-	printf("%d tane Portakal kalmıştır\n",adet);
+	printf("%d tane Portakal kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1748,29 +1747,29 @@ if(istek2==3)
 
 break;
 case 13://CASE 13---------------------------------------------------------------------------------------------------------------------------------------------------------------
-printf("      ---------BİSKÜVİ/GOFRET----------\n\n Albeni                           2.25 tl (Stok Takibi için 1)\n Albeni atıştırmalık              2.50 tl (Stok takibi için 2)\n Benimo Lokmalık                  2.50 tl (Stok takibi için 3)\n Biskrem kakaolu                  2.00 tl (Stok takibi için 4)\n Browni Intense                   2.50 tl (Stok takibi için 5)\n Burçak                           2.50 tl (Stok Takibi için 6)\n Canga                            2.50 tl (Stok Takibi için 7)\n Canpare Çikolata                 2.50 tl (Stok Takibi için 8)\n Tutku 110 gr                     2.50 tl (Stok Takibi için 9)\n");	
-printf(" Caramio Karamelli Çikolatalı     2.50 tl (Stok Takibi için 10)\n Cin lokmalık                     2.00 tl (Stok Takibi için 11)\n Cocostar                         2.00 tl (Stok Takibi için 12)\n");
-printf(" Crax Çubuk Kraker                2.00 tl (Stok Takibi için 13)\n Çizi Peynirli                    2.50 tl (Stok Takibi için 14)\n Çizi sade                        2.50 tl (Stok Takibi için 15)\n Çokonat gofret                   2.50 tl (Stok Takibi için 16)\n");
-printf(" Dido Sütlü Çikolatalı Gofret     2.50 tl (Stok Takibi için 17)\n Eti Burçak Sütlü Çikolatalı      2.50 tl (Stok Takibi için 18)\n Eti çay keyfi ÇİKOLATALI         2.50 tl (Stok Takibi için 19)\n Eti form                         1.50 tl (Stok Takibi için 20)\n Saklıköy                         2.50 tl (Stok Takibi için 21)\n Eti karam                        2.50 tl (Stok Takibi için 22)\n Eti popkek                       1.75 tl (Stok Takibi için 23)\n Ülker Çikolatalı gofret 33gr     2.50 tl (Stok Takibi için 24)\n");
-printf(" Halley atıştırmalık              2.50 tl (Stok Takibi için 25)\n Hanımeller                       2.50 tl (Stok Takibi için 26)\n İkram Çikolata                   2.50 tl (Stok Takibi için 27)\n Laviva Bar                       2.50 tl (Stok Takibi için 28)\n Probis Atıştırmalık              2.50 tl (Stok Takibi için 29)\n Kuruyemiş Karışık                3.50 tl (Stok Takibi için 30)");
+printf("      ---------BÄ°SKÃœVÄ°/GOFRET----------\n\n Albeni                           2.25 tl (Stok Takibi iÃ§in 1)\n Albeni atÄ±ÅŸtÄ±rmalÄ±k              2.50 tl (Stok takibi iÃ§in 2)\n Benimo LokmalÄ±k                  2.50 tl (Stok takibi iÃ§in 3)\n Biskrem kakaolu                  2.00 tl (Stok takibi iÃ§in 4)\n Browni Intense                   2.50 tl (Stok takibi iÃ§in 5)\n BurÃ§ak                           2.50 tl (Stok Takibi iÃ§in 6)\n Canga                            2.50 tl (Stok Takibi iÃ§in 7)\n Canpare Ã‡ikolata                 2.50 tl (Stok Takibi iÃ§in 8)\n Tutku 110 gr                     2.50 tl (Stok Takibi iÃ§in 9)\n");	
+printf(" Caramio Karamelli Ã‡ikolatalÄ±     2.50 tl (Stok Takibi iÃ§in 10)\n Cin lokmalÄ±k                     2.00 tl (Stok Takibi iÃ§in 11)\n Cocostar                         2.00 tl (Stok Takibi iÃ§in 12)\n");
+printf(" Crax Ã‡ubuk Kraker                2.00 tl (Stok Takibi iÃ§in 13)\n Ã‡izi Peynirli                    2.50 tl (Stok Takibi iÃ§in 14)\n Ã‡izi sade                        2.50 tl (Stok Takibi iÃ§in 15)\n Ã‡okonat gofret                   2.50 tl (Stok Takibi iÃ§in 16)\n");
+printf(" Dido SÃ¼tlÃ¼ Ã‡ikolatalÄ± Gofret     2.50 tl (Stok Takibi iÃ§in 17)\n Eti BurÃ§ak SÃ¼tlÃ¼ Ã‡ikolatalÄ±      2.50 tl (Stok Takibi iÃ§in 18)\n Eti Ã§ay keyfi Ã‡Ä°KOLATALI         2.50 tl (Stok Takibi iÃ§in 19)\n Eti form                         1.50 tl (Stok Takibi iÃ§in 20)\n SaklÄ±kÃ¶y                         2.50 tl (Stok Takibi iÃ§in 21)\n Eti karam                        2.50 tl (Stok Takibi iÃ§in 22)\n Eti popkek                       1.75 tl (Stok Takibi iÃ§in 23)\n Ãœlker Ã‡ikolatalÄ± gofret 33gr     2.50 tl (Stok Takibi iÃ§in 24)\n");
+printf(" Halley atÄ±ÅŸtÄ±rmalÄ±k              2.50 tl (Stok Takibi iÃ§in 25)\n HanÄ±meller                       2.50 tl (Stok Takibi iÃ§in 26)\n Ä°kram Ã‡ikolata                   2.50 tl (Stok Takibi iÃ§in 27)\n Laviva Bar                       2.50 tl (Stok Takibi iÃ§in 28)\n Probis AtÄ±ÅŸtÄ±rmalÄ±k              2.50 tl (Stok Takibi iÃ§in 29)\n KuruyemiÅŸ KarÄ±ÅŸÄ±k                3.50 tl (Stok Takibi iÃ§in 30)");
 scanf("%d",&istek2);
 if(istek2==1)
 {
 system("cls");
-	printf("\t ALBENİ\n\n Albeni bugün  %d taneydi\n",albeni);
-	printf("Şu anda kalan Albeni adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t ALBENÄ°\n\n Albeni bugÃ¼n  %d taneydi\n",albeni);
+	printf("Åu anda kalan Albeni adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Albeni kalmamıştır");
+		printf("Elinizde hiÃ§ Albeni kalmamÄ±ÅŸtÄ±r");
 		
 	}
 	adet=albeni-satis;
 	kar=(float)satis*2.25-albenialistl;
-	printf(" %d tane Albeni   kalmıştır\n",adet);
+	printf(" %d tane Albeni   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1780,20 +1779,20 @@ system("cls");
 if(istek2==2)
 {
 system("cls");
-	printf("\t ALBENİ\n\n Albeni atıştırmalık bugün  %d taneydi\n",albeniAtistirmalik);
-	printf("Şu anda kalan Albeni atıştırmalık adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t ALBENÄ°\n\n Albeni atÄ±ÅŸtÄ±rmalÄ±k bugÃ¼n  %d taneydi\n",albeniAtistirmalik);
+	printf("Åu anda kalan Albeni atÄ±ÅŸtÄ±rmalÄ±k adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Albeni atıştırmalık kalmamıştır");
+		printf("Elinizde hiÃ§ Albeni atÄ±ÅŸtÄ±rmalÄ±k kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=albeniAtistirmalik-satis;
 	kar=(float)satis*2.50-albeniAtistirmalikalistl;
-	printf("%d tane Albeni atıştırmalık   kalmıştır\n",adet);
+	printf("%d tane Albeni atÄ±ÅŸtÄ±rmalÄ±k   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1805,20 +1804,20 @@ system("cls");
 if(istek2==3)
 {
 system("cls");
-	printf("\t BENİMOLOKMOLİK\n\n Benimo Lokmalık  bugün  %d taneydi\n",benimoLokmalik);
-	printf("Şu anda kalan Benimo Lokmalık adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t BENÄ°MOLOKMOLÄ°K\n\n Benimo LokmalÄ±k  bugÃ¼n  %d taneydi\n",benimoLokmalik);
+	printf("Åu anda kalan Benimo LokmalÄ±k adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Benimo Lokmalık kalmamıştır");
+		printf("Elinizde hiÃ§ Benimo LokmalÄ±k kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=benimoLokmalik-satis;
 	kar=(float)satis*2.50-benimoLokmalikalistl;
-	printf("%d tane Benimo Lokmalık   kalmıştır\n",adet);
+	printf("%d tane Benimo LokmalÄ±k   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1829,20 +1828,20 @@ system("cls");
 if(istek2==4)
 {
 system("cls");
-	printf("\t BİSKREM\n\n Biskrem  bugün  %d taneydi\n",biskremKakaolu);
-	printf("Şu anda kalan Biskrem adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t BÄ°SKREM\n\n Biskrem  bugÃ¼n  %d taneydi\n",biskremKakaolu);
+	printf("Åu anda kalan Biskrem adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Biskrem kalmamıştır");
+		printf("Elinizde hiÃ§ Biskrem kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=biskremKakaolu-satis;
 	kar=(float)satis*2.00-biskremKakaolualistl;
-	printf("%d tane Benimo Lokmalık   kalmıştır\n",adet);
+	printf("%d tane Benimo LokmalÄ±k   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1853,20 +1852,20 @@ system("cls");
 if(istek2==5)
 {
 system("cls");
-	printf("\t BROWNİ\n\n Browni  bugün  %d taneydi\n",browniIntense);
-	printf("Şu anda kalan Browni  adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t BROWNÄ°\n\n Browni  bugÃ¼n  %d taneydi\n",browniIntense);
+	printf("Åu anda kalan Browni  adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Browni  kalmamıştır");
+		printf("Elinizde hiÃ§ Browni  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=browniIntense-satis;
 	kar=(float)satis*2.50-browniIntensealistl;
-	printf("%d tane Browni    kalmıştır\n",adet);
+	printf("%d tane Browni    kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1878,20 +1877,20 @@ system("cls");
 if(istek2==6)
 {
 system("cls");
-	printf("\t BURÇAK\n\n Burçak  bugün  %d taneydi\n",burcak);
-	printf("Şu anda kalan Burçak  adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t BURÃ‡AK\n\n BurÃ§ak  bugÃ¼n  %d taneydi\n",burcak);
+	printf("Åu anda kalan BurÃ§ak  adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Burçak  kalmamıştır");
+		printf("Elinizde hiÃ§ BurÃ§ak  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=burcak-satis;
 	kar=(float)satis*2.50-burcakalistl;
-	printf("%d tane Burçak    kalmıştır\n",adet);
+	printf("%d tane BurÃ§ak    kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1902,20 +1901,20 @@ system("cls");
 if(istek2==7)
 {
 system("cls");
-	printf("\t CANGA\n\n Canga  bugün  %d taneydi\n",canga);
-	printf("Şu anda kalan Canga  adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t CANGA\n\n Canga  bugÃ¼n  %d taneydi\n",canga);
+	printf("Åu anda kalan Canga  adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Canga  kalmamıştır");
+		printf("Elinizde hiÃ§ Canga  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=canga-satis;
 	kar=(float)satis*2.50-cangaalistl;
-	printf("%d tane Canga    kalmıştır\n",adet);
+	printf("%d tane Canga    kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1927,20 +1926,20 @@ system("cls");
 if(istek2==8)
 {
 system("cls");
-	printf("\t CANPARE ÇİKOLATA\n\n Canpare Çikolata  bugün  %d taneydi\n",canpareCikolata);
-	printf("Şu anda kalan Canpare Çikolata  adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t CANPARE Ã‡Ä°KOLATA\n\n Canpare Ã‡ikolata  bugÃ¼n  %d taneydi\n",canpareCikolata);
+	printf("Åu anda kalan Canpare Ã‡ikolata  adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Canpare Çikolata  kalmamıştır");
+		printf("Elinizde hiÃ§ Canpare Ã‡ikolata  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=canpareCikolata-satis;
 	kar=(float)satis*2.50-canpareCikolataalistl;
-	printf("%d tane Canpare Çikolata    kalmıştır\n",adet);
+	printf("%d tane Canpare Ã‡ikolata    kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1952,20 +1951,20 @@ system("cls");
 if(istek2==9)
 {
 system("cls");
-	printf("\t TUTKU\n\n Tutku  bugün  %d taneydi\n",tutku);
-	printf("Şu anda kalan Tutku  adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t TUTKU\n\n Tutku  bugÃ¼n  %d taneydi\n",tutku);
+	printf("Åu anda kalan Tutku  adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Tutku  kalmamıştır");
+		printf("Elinizde hiÃ§ Tutku  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=tutku-satis;
 	kar=(float)satis*2.50-tutkualistl;
-	printf("%d tane Tutku   kalmıştır\n",adet);
+	printf("%d tane Tutku   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -1977,21 +1976,21 @@ system("cls");
 if(istek2==10)
 {
 system("cls");
-	printf("\t CARAMİO\n\n Caramio  bugün  %d taneydi\n",caramio);
-	printf("Şu anda kalan Caramio  adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t CARAMÄ°O\n\n Caramio  bugÃ¼n  %d taneydi\n",caramio);
+	printf("Åu anda kalan Caramio  adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Caramio  kalmamıştır");
+		printf("Elinizde hiÃ§ Caramio  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=caramio-satis;
 	kar=(float)satis*2.50-caramioalistl;
-	printf("%d tane Caramio   kalmıştır\n",adet);
+	printf("%d tane Caramio   kalmÄ±ÅŸtÄ±r\n",adet);
 	
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2003,21 +2002,21 @@ system("cls");
 if(istek2==11)
 {
 system("cls");
-	printf("\t ETİ CİN\n\n Eti Cin  bugün  %d taneydi\n",cin);
-	printf("Şu anda kalan Eti Cin adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t ETÄ° CÄ°N\n\n Eti Cin  bugÃ¼n  %d taneydi\n",cin);
+	printf("Åu anda kalan Eti Cin adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Eti Cin  kalmamıştır");
+		printf("Elinizde hiÃ§ Eti Cin  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=cin-satis;
 		kar=(float)satis*2.00-cinalistl;
-	printf("%d tane Eti Cin   kalmıştır\n",adet);
+	printf("%d tane Eti Cin   kalmÄ±ÅŸtÄ±r\n",adet);
 	
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2029,20 +2028,20 @@ system("cls");
 if(istek2==12)
 {
 system("cls");
-	printf("\t COCO STAR\n\n Coco Star  bugün  %d taneydi\n",cocostar);
-	printf("Şu anda kalan Coco Star adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t COCO STAR\n\n Coco Star  bugÃ¼n  %d taneydi\n",cocostar);
+	printf("Åu anda kalan Coco Star adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Coco Star  kalmamıştır");
+		printf("Elinizde hiÃ§ Coco Star  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=cocostar-satis;
 	kar=(float)satis*2.00-cocostaralistl;
-	printf("%d tane Coco Star  kalmıştır\n",adet);
+	printf("%d tane Coco Star  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2054,20 +2053,20 @@ system("cls");
 if(istek2==13)
 {
 system("cls");
-	printf("\t CRAX\n\n Crax   bugün  %d taneydi\n",crax);
-	printf("Şu anda kalan Crax  adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t CRAX\n\n Crax   bugÃ¼n  %d taneydi\n",crax);
+	printf("Åu anda kalan Crax  adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Crax   kalmamıştır");
+		printf("Elinizde hiÃ§ Crax   kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=crax-satis;
 	kar=(float)satis*2.00-craxalistl;
-	printf("%d tane Crax  kalmıştır\n",adet);
+	printf("%d tane Crax  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2079,21 +2078,21 @@ system("cls");
 if(istek2==14)
 {
 system("cls");
-	printf("\t PEYNİRLİ ÇİZİ\n\n Peynirli Çizi   bugün  %d taneydi\n",ciziPeynirli);
-	printf("Şu anda kalan Peynirli Çizi adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t PEYNÄ°RLÄ° Ã‡Ä°ZÄ°\n\n Peynirli Ã‡izi   bugÃ¼n  %d taneydi\n",ciziPeynirli);
+	printf("Åu anda kalan Peynirli Ã‡izi adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Peynirli Çizi   kalmamıştır");
+		printf("Elinizde hiÃ§ Peynirli Ã‡izi   kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=ciziPeynirli-satis;
 	kar=(float)satis*2.50-ciziPeynirlialistl;
-	printf("%d tane Peynirli Çizi  kalmıştır\n",adet);
+	printf("%d tane Peynirli Ã‡izi  kalmÄ±ÅŸtÄ±r\n",adet);
 	
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2105,21 +2104,21 @@ system("cls");
 if(istek2==15)
 {
 system("cls");
-	printf("\tSADE ÇİZİ \n\n Sade Çizi   bugün  %d taneydi\n",ciziSade);
-	printf("Şu anda kalan Sade Çizi adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tSADE Ã‡Ä°ZÄ° \n\n Sade Ã‡izi   bugÃ¼n  %d taneydi\n",ciziSade);
+	printf("Åu anda kalan Sade Ã‡izi adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Sade Çizi   kalmamıştır");
+		printf("Elinizde hiÃ§ Sade Ã‡izi   kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=ciziSade-satis;
 	kar=(float)satis*2.50-ciziSadealistl;
-	printf("%d tane Sade Çizi kalmıştır\n",adet);
+	printf("%d tane Sade Ã‡izi kalmÄ±ÅŸtÄ±r\n",adet);
 	
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2130,20 +2129,20 @@ system("cls");
 if(istek2==16)
 {
 system("cls");
-	printf("\tÇOKONAT GOFRET \n\n Çokonat Gofret   bugün  %d taneydi\n",cokonatGofret);
-	printf("Şu anda kalan Çokonat Gofret  adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tÃ‡OKONAT GOFRET \n\n Ã‡okonat Gofret   bugÃ¼n  %d taneydi\n",cokonatGofret);
+	printf("Åu anda kalan Ã‡okonat Gofret  adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Çokonat Gofret   kalmamıştır");
+		printf("Elinizde hiÃ§ Ã‡okonat Gofret   kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=cokonatGofret-satis;
 	kar=(float)satis*2.50-cokonatGofretalistl;
-	printf("%d tane Çokonat Gofret  kalmıştır\n",adet);
+	printf("%d tane Ã‡okonat Gofret  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2155,20 +2154,20 @@ system("cls");
 if(istek2==17)
 {
 system("cls");
-	printf("\tDİDO \n\n Dido  bugün  %d taneydi\n",dido);
-	printf("Şu anda kalan Dido  adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tDÄ°DO \n\n Dido  bugÃ¼n  %d taneydi\n",dido);
+	printf("Åu anda kalan Dido  adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Dido  kalmamıştır");
+		printf("Elinizde hiÃ§ Dido  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=dido-satis;
 	kar=(float)satis*2.50-didoalistl;
-	printf("%d tane Dido  kalmıştır\n",adet);
+	printf("%d tane Dido  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2181,20 +2180,20 @@ system("cls");
 if(istek2==18)
 {
 system("cls");
-	printf("\tETİ BURÇAK SÜTLÜ ÇİKOLATALI \n\n Eti Burçak Sütlü Çikolatalı  bugün  %d taneydi\n",etiBurcakSutluCikolatali);
-	printf("Şu anda kalan Eti Burçak Sütlü Çikolatalı  adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tETÄ° BURÃ‡AK SÃœTLÃœ Ã‡Ä°KOLATALI \n\n Eti BurÃ§ak SÃ¼tlÃ¼ Ã‡ikolatalÄ±  bugÃ¼n  %d taneydi\n",etiBurcakSutluCikolatali);
+	printf("Åu anda kalan Eti BurÃ§ak SÃ¼tlÃ¼ Ã‡ikolatalÄ±  adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Eti Burçak Sütlü Çikolatalı  kalmamıştır");
+		printf("Elinizde hiÃ§ Eti BurÃ§ak SÃ¼tlÃ¼ Ã‡ikolatalÄ±  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=etiBurcakSutluCikolatali-satis;
 	kar=(float)satis*2.50-etiBurcakSutluCikolatalialistl;
-	printf("%d tane Eti Burçak Sütlü Çikolatalı  kalmıştır\n",adet);
+	printf("%d tane Eti BurÃ§ak SÃ¼tlÃ¼ Ã‡ikolatalÄ±  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2206,20 +2205,20 @@ system("cls");
 if(istek2==19)
 {
 system("cls");
-	printf("\tETİ ÇAY KEYFİ ÇİKOLATALI \n\n Eti Çay Keyfi Çikolatalı  bugün  %d taneydi\n",etiCaykeyfiCikolatali);
-	printf("Şu anda kalan Eti Çay Keyfi Çikolatalı  adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tETÄ° Ã‡AY KEYFÄ° Ã‡Ä°KOLATALI \n\n Eti Ã‡ay Keyfi Ã‡ikolatalÄ±  bugÃ¼n  %d taneydi\n",etiCaykeyfiCikolatali);
+	printf("Åu anda kalan Eti Ã‡ay Keyfi Ã‡ikolatalÄ±  adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Eti Çay Keyfi Çikolatalı  kalmamıştır");
+		printf("Elinizde hiÃ§ Eti Ã‡ay Keyfi Ã‡ikolatalÄ±  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=etiCaykeyfiCikolatali-satis;
 	kar=(float)satis*2.50-etiCaykeyfiCikolatalialistl;
-	printf("%d tane Eti Çay Keyfi Çikolatalı  kalmıştır\n",adet);
+	printf("%d tane Eti Ã‡ay Keyfi Ã‡ikolatalÄ±  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2230,20 +2229,20 @@ system("cls");
 if(istek2==20)
 {
 system("cls");
-	printf("\tETİ FORM \n\n Eti Form  bugün  %d taneydi\n",etiForm);
-	printf("Şu anda kalan Eti Form   adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tETÄ° FORM \n\n Eti Form  bugÃ¼n  %d taneydi\n",etiForm);
+	printf("Åu anda kalan Eti Form   adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Eti Form   kalmamıştır");
+		printf("Elinizde hiÃ§ Eti Form   kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=etiForm-satis;
 	kar=(float)satis*1.50-etiFormalistl;
-	printf("%d tane Eti Form   kalmıştır\n",adet);
+	printf("%d tane Eti Form   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2255,20 +2254,20 @@ system("cls");
 if(istek2==21)
 {
 system("cls");
-	printf("\tSAKLIKÖY \n\n Sakliköy   bugün  %d taneydi\n",saklikoy);
-	printf("Şu anda kalan Sakliköy    adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tSAKLIKÃ–Y \n\n SaklikÃ¶y   bugÃ¼n  %d taneydi\n",saklikoy);
+	printf("Åu anda kalan SaklikÃ¶y    adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Sakliköy    kalmamıştır");
+		printf("Elinizde hiÃ§ SaklikÃ¶y    kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=saklikoy-satis;
 	kar=(float)satis*2.50-saklikoyalistl;
-	printf("%d tane Eti Sakliköy   kalmıştır\n",adet);
+	printf("%d tane Eti SaklikÃ¶y   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2280,20 +2279,20 @@ system("cls");
 if(istek2==22)
 {
 system("cls");
-	printf("\tETİ KARAM \n\n Eti Karam   bugün  %d taneydi\n",etiKaram);
-	printf("Şu anda kalan Eti Karam    adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tETÄ° KARAM \n\n Eti Karam   bugÃ¼n  %d taneydi\n",etiKaram);
+	printf("Åu anda kalan Eti Karam    adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Eti Karam    kalmamıştır");
+		printf("Elinizde hiÃ§ Eti Karam    kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=etiKaram-satis;
 	kar=(float)satis*2.50-etiKaramalistl;
-	printf("%d tane Eti Eti Karam   kalmıştır\n",adet);
+	printf("%d tane Eti Eti Karam   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2305,20 +2304,20 @@ system("cls");
 if(istek2==23)
 {
 system("cls");
-	printf("\tETİ POPKEK \n\n Eti Popkek    bugün  %d taneydi\n",etiPopkek);
-	printf("Şu anda kalan Eti Popkek     adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tETÄ° POPKEK \n\n Eti Popkek    bugÃ¼n  %d taneydi\n",etiPopkek);
+	printf("Åu anda kalan Eti Popkek     adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Eti Popkek     kalmamıştır");
+		printf("Elinizde hiÃ§ Eti Popkek     kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=etiPopkek-satis;
 		kar=(float)satis*1.75-etiPopkekalistl;
-	printf("%d tane Eti Popkek  kalmıştır\n",adet);
+	printf("%d tane Eti Popkek  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2329,20 +2328,20 @@ system("cls");
 if(istek2==24)
 {
 system("cls");
-	printf("\tÇİKOLATALI GOFRET \n\nÇikolatalı Gofret  bugün  %d taneydi\n",ulkerCikolataliGofret);
-	printf("Şu anda kalan Çikolatalı Gofret   adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tÃ‡Ä°KOLATALI GOFRET \n\nÃ‡ikolatalÄ± Gofret  bugÃ¼n  %d taneydi\n",ulkerCikolataliGofret);
+	printf("Åu anda kalan Ã‡ikolatalÄ± Gofret   adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Çikolatalı Gofret  kalmamıştır");
+		printf("Elinizde hiÃ§ Ã‡ikolatalÄ± Gofret  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=ulkerCikolataliGofret-satis;
 	kar=(float)satis*2.50-ulkerCikolataliGofretalistl;
-	printf("%d tane Çikolatalı Gofret  kalmıştır\n",adet);
+	printf("%d tane Ã‡ikolatalÄ± Gofret  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2352,20 +2351,20 @@ system("cls");
 if(istek2==25)
 {
 system("cls");
-	printf("\tHALLEY \n\nHalley  bugün  %d taneydi\n",halleyAtistirmail);
-	printf("Şu anda kalan Halley  adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tHALLEY \n\nHalley  bugÃ¼n  %d taneydi\n",halleyAtistirmail);
+	printf("Åu anda kalan Halley  adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Halley kalmamıştır");
+		printf("Elinizde hiÃ§ Halley kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=halleyAtistirmail-satis;
 	kar=(float)satis*2.50-halleyAtistirmailalistl;
-	printf("%d tane Halley  kalmıştır\n",adet);
+	printf("%d tane Halley  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2378,20 +2377,20 @@ system("cls");
 if(istek2==26)
 {
 system("cls");
-	printf("\tHANIMELLER \n\nHanımmeller  bugün  %d taneydi\n",hanimeller);
-	printf("Şu anda kalan Hanımmeller  adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tHANIMELLER \n\nHanÄ±mmeller  bugÃ¼n  %d taneydi\n",hanimeller);
+	printf("Åu anda kalan HanÄ±mmeller  adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Hanımmeller  kalmamıştır");
+		printf("Elinizde hiÃ§ HanÄ±mmeller  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=hanimeller-satis;
 	kar=(float)satis*2.50-hanimelleralistl;
-	printf("%d tane Hanımmeller  kalmıştır\n",adet);
+	printf("%d tane HanÄ±mmeller  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2403,20 +2402,20 @@ system("cls");
 if(istek2==27)
 {
 system("cls");
-	printf("\tİKRAM \n\nİkram  bugün  %d taneydi\n",ikram);
-	printf("Şu anda kalan İkram   adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tÄ°KRAM \n\nÄ°kram  bugÃ¼n  %d taneydi\n",ikram);
+	printf("Åu anda kalan Ä°kram   adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç İkram   kalmamıştır");
+		printf("Elinizde hiÃ§ Ä°kram   kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=ikram-satis;
 	kar=(float)satis*2.50-ikramalistl;
-	printf("%d tane İkram   kalmıştır\n",adet);
+	printf("%d tane Ä°kram   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2427,20 +2426,20 @@ system("cls");
 if(istek2==28)
 {
 system("cls");
-	printf("\tLAVİVA BAR\n\nLaviva Bar  bugün  %d taneydi\n",lavivaBar);
-	printf("Şu anda kalan Laviva Bar   adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tLAVÄ°VA BAR\n\nLaviva Bar  bugÃ¼n  %d taneydi\n",lavivaBar);
+	printf("Åu anda kalan Laviva Bar   adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Laviva Bar   kalmamıştır");
+		printf("Elinizde hiÃ§ Laviva Bar   kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=lavivaBar-satis;
 	kar=(float)satis*2.50-lavivaBaralistl;
-	printf("%d tane Laviva Bar  kalmıştır\n",adet);
+	printf("%d tane Laviva Bar  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2451,20 +2450,20 @@ system("cls");
 if(istek2==29)
 {
 system("cls");
-	printf("\tPROBİS\n\nProbis  bugün  %d taneydi\n",probis);
-	printf("Şu anda kalan Probis   adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tPROBÄ°S\n\nProbis  bugÃ¼n  %d taneydi\n",probis);
+	printf("Åu anda kalan Probis   adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Probis   kalmamıştır");
+		printf("Elinizde hiÃ§ Probis   kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=probis-satis;
 	kar=(float)satis*2.50-probisalistl;
-	printf("%d tane Probis  kalmıştır\n",adet);
+	printf("%d tane Probis  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2475,49 +2474,49 @@ system("cls");
 if(istek2==30)
 {
 system("cls");
-	printf("\tKURUYEMİŞ\n\nKuruyemis  bugün  %d taneydi\n",kuruyemis);
-	printf("Şu anda kalan Kuruyemis    adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\tKURUYEMÄ°Å\n\nKuruyemis  bugÃ¼n  %d taneydi\n",kuruyemis);
+	printf("Åu anda kalan Kuruyemis    adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Probis   kalmamıştır");
+		printf("Elinizde hiÃ§ Probis   kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=kuruyemis-satis;
 	kar=(float)satis*2.50-kuruyemisalistl;
-	printf("%d tane Kuruyemis  kalmıştır\n",adet);
+	printf("%d tane Kuruyemis  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
 	break;
 }// if sonu
-//case 13 sonu (Bisküvi/Gofret)
+//case 13 sonu (BiskÃ¼vi/Gofret)
 
 break;
 case 14://CASE 14--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-printf("      ---------GÜNÜN MENÜSÜ----------\n\n Çorba                5.00 tl (Stok Takibi için 1)\n Yardımcı Yemek       5.00 tl (Stok takibi için 2)\n Ana Yemek Etli       8.00 tl (Stok takibi için 3)\n Ana Yemek Sebzeli    6.00 tl (Stok takibi için 4)\n Salata/Meyve         5.00 tl (Stok takibi için 5)\n Tabldot             15.00 tl (Stok takibi için 6)\n  ");
+printf("      ---------GÃœNÃœN MENÃœSÃœ----------\n\n Ã‡orba                5.00 tl (Stok Takibi iÃ§in 1)\n YardÄ±mcÄ± Yemek       5.00 tl (Stok takibi iÃ§in 2)\n Ana Yemek Etli       8.00 tl (Stok takibi iÃ§in 3)\n Ana Yemek Sebzeli    6.00 tl (Stok takibi iÃ§in 4)\n Salata/Meyve         5.00 tl (Stok takibi iÃ§in 5)\n Tabldot             15.00 tl (Stok takibi iÃ§in 6)\n  ");
 scanf("%d",&istek2);
 if(istek2==1)
 {
 	
 	system("cls");
-	printf("\t ÇORBA\n\n Çorba bugün  %d taneydi\n",corba);
-	printf("Şu anda kalan Çorba adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t Ã‡ORBA\n\n Ã‡orba bugÃ¼n  %d taneydi\n",corba);
+	printf("Åu anda kalan Ã‡orba adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Çorba kalmamıştır");
+		printf("Elinizde hiÃ§ Ã‡orba kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=corba-satis;
 	kar=(float)satis*5.00-corbaalistl;
-	printf("%d tane Çorba   kalmıştır\n",adet);
+	printf("%d tane Ã‡orba   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2529,20 +2528,20 @@ if(istek2==2)
 {
 	
 	system("cls");
-	printf("\t YARDIMCI YEMEK\n\n Yardımcı yemek bugün  %d taneydi\n",yardimciyemek);
-	printf("Şu anda kalan  Yardımcı yemek adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t YARDIMCI YEMEK\n\n YardÄ±mcÄ± yemek bugÃ¼n  %d taneydi\n",yardimciyemek);
+	printf("Åu anda kalan  YardÄ±mcÄ± yemek adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç  Yardımcı yemek kalmamıştır");
+		printf("Elinizde hiÃ§  YardÄ±mcÄ± yemek kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=yardimciyemek-satis;
 	kar=(float)satis*5.00-yardimciyemekalistl;
-	printf("%d tane  Yardımcı yemek  kalmıştır\n",adet);
+	printf("%d tane  YardÄ±mcÄ± yemek  kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2555,20 +2554,20 @@ if(istek2==3)
 {
 	
 	system("cls");
-	printf("\t ANA YEMEK ETLİ\n\n  Ana Yemek Etli  bugün  %d taneydi\n",anayemeketli);
-	printf("Şu anda kalan  Ana Yemek Etli  adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t ANA YEMEK ETLÄ°\n\n  Ana Yemek Etli  bugÃ¼n  %d taneydi\n",anayemeketli);
+	printf("Åu anda kalan  Ana Yemek Etli  adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç  Ana Yemek Etli  kalmamıştır");
+		printf("Elinizde hiÃ§  Ana Yemek Etli  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=anayemeketli-satis;
 	kar=(float)satis*8.00-anayemeketlialistl;
-	printf("%d tane  Ana Yemek Etli    kalmıştır\n",adet);
+	printf("%d tane  Ana Yemek Etli    kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2580,20 +2579,20 @@ if(istek2==4)
 {
 	
 	system("cls");
-	printf("\t ANAYEMEKSEBZELİ\n\n Ana Yemek Sebzeli  bugün  %d taneydi\n",anayemeksebzeli);
-	printf("Şu anda kalan Ana Yemek Sebzeli  adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t ANAYEMEKSEBZELÄ°\n\n Ana Yemek Sebzeli  bugÃ¼n  %d taneydi\n",anayemeksebzeli);
+	printf("Åu anda kalan Ana Yemek Sebzeli  adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Ana Yemek Sebzeli  kalmamıştır");
+		printf("Elinizde hiÃ§ Ana Yemek Sebzeli  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=anayemeksebzeli-satis;
 	kar=(float)satis*6.00-anayemeksebzelialistl;
-	printf("%d tane Ana Yemek Sebzeli    kalmıştır\n",adet);
+	printf("%d tane Ana Yemek Sebzeli    kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2605,21 +2604,21 @@ if(istek2==5)
 {
 	
 	system("cls");
-	printf("\t ANAYEMEKSEBZELİ\n\n Salata/Meyve  bugün  %d taneydi\n",salatameyve);
-	printf("Şu anda kalan Salata/Meyve  adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t ANAYEMEKSEBZELÄ°\n\n Salata/Meyve  bugÃ¼n  %d taneydi\n",salatameyve);
+	printf("Åu anda kalan Salata/Meyve  adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Salata/Meyve  kalmamıştır");
+		printf("Elinizde hiÃ§ Salata/Meyve  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=salatameyve-satis;
 	kar=(float)satis*5.00-anayemeksebzelialistl;
-	printf("%d tane Salata/Meyve    kalmıştır\n",adet);
+	printf("%d tane Salata/Meyve    kalmÄ±ÅŸtÄ±r\n",adet);
 	
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2633,20 +2632,20 @@ if(istek2==6)
 {
 	
 	system("cls");
-	printf("\t TABLDOT\n\n Tabldot  bugün  %d taneydi\n",tabldot);
-	printf("Şu anda kalan Tabldot  adedini  öğrenmek için bugün kaç tane satıldığını girin: ");
+	printf("\t TABLDOT\n\n Tabldot  bugÃ¼n  %d taneydi\n",tabldot);
+	printf("Åu anda kalan Tabldot  adedini  Ã¶ÄŸrenmek iÃ§in bugÃ¼n kaÃ§ tane satÄ±ldÄ±ÄŸÄ±nÄ± girin: ");
 	scanf("%d",&satis);
 	if(satis>=50)
 	{
-		printf("Elinizde hiç Tabldot  kalmamıştır");
+		printf("Elinizde hiÃ§ Tabldot  kalmamÄ±ÅŸtÄ±r");
 		break;
 	}
 	adet=tabldot-satis;
 	kar=(float)satis*15.00-tabldotalistl;
-	printf("%d tane Tabldot   kalmıştır\n",adet);
+	printf("%d tane Tabldot   kalmÄ±ÅŸtÄ±r\n",adet);
 	if(kar<0)
 	{
-		printf("Üzgünüm! %.2ftl kadar zarar ettiniz",kar);
+		printf("ÃœzgÃ¼nÃ¼m! %.2ftl kadar zarar ettiniz",kar);
 		break;
 	}
 	printf("Tebrikler! Net kar= %.2ftl",kar);
@@ -2661,6 +2660,6 @@ if(istek2==6)
 
 break;
 default:
-	printf("Yanlış bir değer girdiniz");
+	printf("YanlÄ±ÅŸ bir deÄŸer girdiniz");
 }//switch sonu
 }//main sonu
